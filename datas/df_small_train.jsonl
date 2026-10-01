@@ -1,0 +1,96 @@
+{"sentence": "Поставь будильник на семь утра", "intent": "alarm_set"}
+{"sentence": "Разбуди меня завтра в восемь", "intent": "alarm_set"}
+{"sentence": "Пусть будильник звонит каждый будний день в девять", "intent": "alarm_set"}
+{"sentence": "Напомни будильником через полчаса", "intent": "alarm_set"}
+{"sentence": "Оятқышты таңғы жетіге қойшы", "intent": "alarm_set"}
+{"sentence": "Ертең сегізде оятшы", "intent": "alarm_set"}
+{"sentence": "Әр жұмыс күні тоғызда оятқыш шырылдасын", "intent": "alarm_set"}
+{"sentence": "Жарты сағаттан кейін оятқыш шырылдасын", "intent": "alarm_set"}
+{"sentence": "Set an alarm for seven tomorrow morning", "intent": "alarm_set"}
+{"sentence": "Wake me up at eight a.m.", "intent": "alarm_set"}
+{"sentence": "Make my alarm ring every weekday at nine", "intent": "alarm_set"}
+{"sentence": "Set an alarm for thirty minutes from now", "intent": "alarm_set"}
+{"sentence": "Запусти робот-пылесос в гостиной", "intent": "cleaning"}
+{"sentence": "Пусть пылесос уберёт пол на кухне", "intent": "cleaning"}
+{"sentence": "Начни уборку квартиры роботом", "intent": "cleaning"}
+{"sentence": "Пропылесось комнату прямо сейчас", "intent": "cleaning"}
+{"sentence": "Қонақ бөлмеде робот шаңсорғышты іске қос", "intent": "cleaning"}
+{"sentence": "Асүйдің еденін шаңсорғыш тазаласын", "intent": "cleaning"}
+{"sentence": "Пәтерді роботпен жинауды баста", "intent": "cleaning"}
+{"sentence": "Бөлмені қазір шаңсорғышпен тазала", "intent": "cleaning"}
+{"sentence": "Start the robot vacuum in the living room", "intent": "cleaning"}
+{"sentence": "Have the vacuum clean the kitchen floor", "intent": "cleaning"}
+{"sentence": "Begin cleaning the apartment with the robot", "intent": "cleaning"}
+{"sentence": "Vacuum the bedroom right now", "intent": "cleaning"}
+{"sentence": "Отправь Дане письмо с отчётом", "intent": "email_sendemail"}
+{"sentence": "Напиши Арману, что встречу перенесли", "intent": "email_sendemail"}
+{"sentence": "Ответь на последнее письмо от коллеги", "intent": "email_sendemail"}
+{"sentence": "Пошли маме письмо с фотографиями", "intent": "email_sendemail"}
+{"sentence": "Данаға есепті хатпен жібер", "intent": "email_sendemail"}
+{"sentence": "Арманға кездесу ауысқанын жаз", "intent": "email_sendemail"}
+{"sentence": "Әріптестің соңғы хатына жауап бер", "intent": "email_sendemail"}
+{"sentence": "Анама суреттері бар хат жолда", "intent": "email_sendemail"}
+{"sentence": "Send Dana an email with the report", "intent": "email_sendemail"}
+{"sentence": "Write Arman that the meeting was moved", "intent": "email_sendemail"}
+{"sentence": "Reply to the latest email from my colleague", "intent": "email_sendemail"}
+{"sentence": "Email the photos to my mother", "intent": "email_sendemail"}
+{"sentence": "Поменяй цвет лампы на синий", "intent": "iot_hue_lightchange"}
+{"sentence": "Установи тёплый жёлтый цвет света", "intent": "iot_hue_lightchange"}
+{"sentence": "Переключи умную лампу на фиолетовый", "intent": "iot_hue_lightchange"}
+{"sentence": "Пусть лампы светят красным", "intent": "iot_hue_lightchange"}
+{"sentence": "Шамның түсін көкке өзгерт", "intent": "iot_hue_lightchange"}
+{"sentence": "Жарыққа жылы сары түс орнат", "intent": "iot_hue_lightchange"}
+{"sentence": "Ақылды шамды күлгін түске ауыстыр", "intent": "iot_hue_lightchange"}
+{"sentence": "Шамдар қызыл түспен жансын", "intent": "iot_hue_lightchange"}
+{"sentence": "Change the lamp color to blue", "intent": "iot_hue_lightchange"}
+{"sentence": "Set the lights to a warm yellow", "intent": "iot_hue_lightchange"}
+{"sentence": "Switch the smart bulb to purple", "intent": "iot_hue_lightchange"}
+{"sentence": "Make the lamps glow red", "intent": "iot_hue_lightchange"}
+{"sentence": "Сколько будет двадцать три плюс сорок семь?", "intent": "qa_maths"}
+{"sentence": "Чему равен квадрат девяти?", "intent": "qa_maths"}
+{"sentence": "Раздели сто двадцать на шесть", "intent": "qa_maths"}
+{"sentence": "Сколько будет семь умножить на восемь?", "intent": "qa_maths"}
+{"sentence": "Жиырма үшке қырық жетіні қосқанда қанша болады?", "intent": "qa_maths"}
+{"sentence": "Тоғыздың квадраты нешеге тең?", "intent": "qa_maths"}
+{"sentence": "Жүз жиырманы алтыға бөл", "intent": "qa_maths"}
+{"sentence": "Жетіні сегізге көбейтсең қанша шығады?", "intent": "qa_maths"}
+{"sentence": "What is twenty-three plus forty-seven?", "intent": "qa_maths"}
+{"sentence": "What is nine squared?", "intent": "qa_maths"}
+{"sentence": "Divide one hundred and twenty by six", "intent": "qa_maths"}
+{"sentence": "What is seven times eight?", "intent": "qa_maths"}
+{"sentence": "Закажи пиццу с сыром на дом", "intent": "takeaway_order"}
+{"sentence": "Закажи суши к семи вечера", "intent": "takeaway_order"}
+{"sentence": "Мне нужен заказ лапши с собой", "intent": "takeaway_order"}
+{"sentence": "Добавь салат к заказу еды", "intent": "takeaway_order"}
+{"sentence": "Үйге ірімшікті пиццаға тапсырыс бер", "intent": "takeaway_order"}
+{"sentence": "Кешкі жетіге сушиге тапсырыс бер", "intent": "takeaway_order"}
+{"sentence": "Алып кетуге кеспе тапсырыс керек", "intent": "takeaway_order"}
+{"sentence": "Тамақ тапсырысына салат қос", "intent": "takeaway_order"}
+{"sentence": "Order a cheese pizza for delivery", "intent": "takeaway_order"}
+{"sentence": "Order sushi for seven this evening", "intent": "takeaway_order"}
+{"sentence": "Get me noodles to take away", "intent": "takeaway_order"}
+{"sentence": "Add a salad to my food order", "intent": "takeaway_order"}
+{"sentence": "Закажи такси к моему дому", "intent": "transport_taxi"}
+{"sentence": "Вызови машину до аэропорта", "intent": "transport_taxi"}
+{"sentence": "Нужна поездка на такси через десять минут", "intent": "transport_taxi"}
+{"sentence": "Оформи такси до офиса", "intent": "transport_taxi"}
+{"sentence": "Үйіме такси шақыр", "intent": "transport_taxi"}
+{"sentence": "Әуежайға дейін көлік шақыр", "intent": "transport_taxi"}
+{"sentence": "Он минуттан кейін такси керек", "intent": "transport_taxi"}
+{"sentence": "Кеңсеге дейін такси рәсімде", "intent": "transport_taxi"}
+{"sentence": "Book a taxi to my home", "intent": "transport_taxi"}
+{"sentence": "Call a car to take me to the airport", "intent": "transport_taxi"}
+{"sentence": "I need a taxi in ten minutes", "intent": "transport_taxi"}
+{"sentence": "Arrange a cab to the office", "intent": "transport_taxi"}
+{"sentence": "Какая сегодня погода в Алматы?", "intent": "weather_query"}
+{"sentence": "Будет ли завтра дождь?", "intent": "weather_query"}
+{"sentence": "Сколько градусов сейчас на улице?", "intent": "weather_query"}
+{"sentence": "Нужен ли зонт вечером?", "intent": "weather_query"}
+{"sentence": "Бүгін Алматыда ауа райы қандай?", "intent": "weather_query"}
+{"sentence": "Ертең жаңбыр жауа ма?", "intent": "weather_query"}
+{"sentence": "Қазір сыртта ауа температурасы қанша?", "intent": "weather_query"}
+{"sentence": "Кешке қолшатыр керек пе?", "intent": "weather_query"}
+{"sentence": "What is the weather like in Almaty today?", "intent": "weather_query"}
+{"sentence": "Will it rain tomorrow?", "intent": "weather_query"}
+{"sentence": "What is the temperature outside now?", "intent": "weather_query"}
+{"sentence": "Will I need an umbrella this evening?", "intent": "weather_query"}

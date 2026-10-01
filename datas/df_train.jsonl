@@ -1,0 +1,984 @@
+{"sentence":"Покажи будильник на завтра утром","intent":"alarm_query"}
+{"sentence":"Во сколько прозвенит следующий будильник?","intent":"alarm_query"}
+{"sentence":"Есть ли будильник на семь часов?","intent":"alarm_query"}
+{"sentence":"Перечисли будильники на выходные","intent":"alarm_query"}
+{"sentence":"Ертең таңертеңгі оятқышты көрсетші","intent":"alarm_query"}
+{"sentence":"Келесі оятқыш сағат нешеде шырылдайды?","intent":"alarm_query"}
+{"sentence":"Жетіге оятқыш қойылған ба?","intent":"alarm_query"}
+{"sentence":"Демалыс күндеріндегі оятқыштарды тізіп берші","intent":"alarm_query"}
+{"sentence":"Show my alarm for tomorrow morning","intent":"alarm_query"}
+{"sentence":"When will my next alarm ring?","intent":"alarm_query"}
+{"sentence":"Do I have an alarm set for seven?","intent":"alarm_query"}
+{"sentence":"List my weekend alarms","intent":"alarm_query"}
+{"sentence":"Отмени завтрашний будильник","intent":"alarm_remove"}
+{"sentence":"Выключи все будильники на субботу","intent":"alarm_remove"}
+{"sentence":"Сотри будильник с названием «работа»","intent":"alarm_remove"}
+{"sentence":"Убери повторяющийся будильник по будням","intent":"alarm_remove"}
+{"sentence":"Ертеңгі оятқышты алып таста","intent":"alarm_remove"}
+{"sentence":"Сенбідегі барлық оятқышты өшір","intent":"alarm_remove"}
+{"sentence":"«Жұмыс» деген оятқышты жойшы","intent":"alarm_remove"}
+{"sentence":"Жұмыс күндері қайталанатын оятқышты алып таста","intent":"alarm_remove"}
+{"sentence":"Cancel the alarm for tomorrow","intent":"alarm_remove"}
+{"sentence":"Turn off all alarms for Saturday","intent":"alarm_remove"}
+{"sentence":"Remove the alarm called work","intent":"alarm_remove"}
+{"sentence":"Delete the repeating weekday alarm","intent":"alarm_remove"}
+{"sentence":"Поставь будильник на семь утра","intent":"alarm_set"}
+{"sentence":"Разбуди меня завтра в восемь","intent":"alarm_set"}
+{"sentence":"Пусть будильник звонит каждый будний день в девять","intent":"alarm_set"}
+{"sentence":"Напомни будильником через полчаса","intent":"alarm_set"}
+{"sentence":"Оятқышты таңғы жетіге қойшы","intent":"alarm_set"}
+{"sentence":"Ертең сегізде оятшы","intent":"alarm_set"}
+{"sentence":"Әр жұмыс күні тоғызда оятқыш шырылдасын","intent":"alarm_set"}
+{"sentence":"Жарты сағаттан кейін оятқыш шырылдасын","intent":"alarm_set"}
+{"sentence":"Set an alarm for seven tomorrow morning","intent":"alarm_set"}
+{"sentence":"Wake me up at eight a.m.","intent":"alarm_set"}
+{"sentence":"Make my alarm ring every weekday at nine","intent":"alarm_set"}
+{"sentence":"Set an alarm for thirty minutes from now","intent":"alarm_set"}
+{"sentence":"Сделай звук потише","intent":"audio_volume_down"}
+{"sentence":"Снизь громкость музыки на пару делений","intent":"audio_volume_down"}
+{"sentence":"Приглуши звук на колонке","intent":"audio_volume_down"}
+{"sentence":"Поставь громкость на минимум","intent":"audio_volume_down"}
+{"sentence":"Дыбысты сәл бәсеңдетші","intent":"audio_volume_down"}
+{"sentence":"Музыканың дауысын екі деңгейге азайт","intent":"audio_volume_down"}
+{"sentence":"Динамиктің дауысын бәсеңдет","intent":"audio_volume_down"}
+{"sentence":"Дыбыс деңгейін ең төменге қой","intent":"audio_volume_down"}
+{"sentence":"Turn the sound down a little","intent":"audio_volume_down"}
+{"sentence":"Reduce the music volume by two steps","intent":"audio_volume_down"}
+{"sentence":"Make the speaker quieter","intent":"audio_volume_down"}
+{"sentence":"Set the volume to its lowest level","intent":"audio_volume_down"}
+{"sentence":"Выключи звук совсем","intent":"audio_volume_mute"}
+{"sentence":"Заглуши звук на колонке","intent":"audio_volume_mute"}
+{"sentence":"Отключи аудио до вечера","intent":"audio_volume_mute"}
+{"sentence":"Сделай так, чтобы ничего не звучало","intent":"audio_volume_mute"}
+{"sentence":"Дыбысты мүлде өшірші","intent":"audio_volume_mute"}
+{"sentence":"Динамиктің үнін өшір","intent":"audio_volume_mute"}
+{"sentence":"Кешке дейін аудионы сөндір","intent":"audio_volume_mute"}
+{"sentence":"Ешқандай дыбыс шықпасын","intent":"audio_volume_mute"}
+{"sentence":"Mute all sound","intent":"audio_volume_mute"}
+{"sentence":"Silence the speaker","intent":"audio_volume_mute"}
+{"sentence":"Turn off the audio until this evening","intent":"audio_volume_mute"}
+{"sentence":"Make sure no sound comes out","intent":"audio_volume_mute"}
+{"sentence":"Измени уровень громкости","intent":"audio_volume_other"}
+{"sentence":"Отрегулируй звук в комнате","intent":"audio_volume_other"}
+{"sentence":"Установи громкость на сорок процентов","intent":"audio_volume_other"}
+{"sentence":"Верни прежний уровень звука","intent":"audio_volume_other"}
+{"sentence":"Дыбыс деңгейін өзгертіп берші","intent":"audio_volume_other"}
+{"sentence":"Бөлмедегі дыбысты ретте","intent":"audio_volume_other"}
+{"sentence":"Дыбысты қырық пайызға қой","intent":"audio_volume_other"}
+{"sentence":"Дыбыстың бұрынғы деңгейін қайтар","intent":"audio_volume_other"}
+{"sentence":"Change the volume level","intent":"audio_volume_other"}
+{"sentence":"Adjust the room audio","intent":"audio_volume_other"}
+{"sentence":"Set volume to forty percent","intent":"audio_volume_other"}
+{"sentence":"Restore the previous volume level","intent":"audio_volume_other"}
+{"sentence":"Прибавь громкость на два деления","intent":"audio_volume_up"}
+{"sentence":"Подними звук до восьмидесяти процентов","intent":"audio_volume_up"}
+{"sentence":"Усиль звук в наушниках","intent":"audio_volume_up"}
+{"sentence":"Поставь громкость повыше","intent":"audio_volume_up"}
+{"sentence":"Дыбыс деңгейін екі сатыға көтер","intent":"audio_volume_up"}
+{"sentence":"Дыбысты сексен пайызға жеткіз","intent":"audio_volume_up"}
+{"sentence":"Құлаққаптың дауысын күшейт","intent":"audio_volume_up"}
+{"sentence":"Дыбыс деңгейін жоғарылатшы","intent":"audio_volume_up"}
+{"sentence":"Increase volume by two steps","intent":"audio_volume_up"}
+{"sentence":"Raise the volume to eighty percent","intent":"audio_volume_up"}
+{"sentence":"Turn up my headphones","intent":"audio_volume_up"}
+{"sentence":"Set the volume higher","intent":"audio_volume_up"}
+{"sentence":"Что у меня в календаре на завтра?","intent":"calendar_query"}
+{"sentence":"Когда следующая встреча с командой?","intent":"calendar_query"}
+{"sentence":"Покажи дела на пятницу","intent":"calendar_query"}
+{"sentence":"Есть ли свободное время в среду после обеда?","intent":"calendar_query"}
+{"sentence":"Ертең күнтізбемде не бар?","intent":"calendar_query"}
+{"sentence":"Командамен келесі кездесу қашан?","intent":"calendar_query"}
+{"sentence":"Жұма күнгі жоспарымды көрсетші","intent":"calendar_query"}
+{"sentence":"Сәрсенбі түстен кейін бос уақытым бар ма?","intent":"calendar_query"}
+{"sentence":"What is on my calendar tomorrow?","intent":"calendar_query"}
+{"sentence":"When is my next team meeting?","intent":"calendar_query"}
+{"sentence":"Show my plans for Friday","intent":"calendar_query"}
+{"sentence":"Am I free on Wednesday afternoon?","intent":"calendar_query"}
+{"sentence":"Отмени событие в пятницу вечером","intent":"calendar_remove"}
+{"sentence":"Убери из расписания завтрашний созвон","intent":"calendar_remove"}
+{"sentence":"Сотри все события на воскресенье","intent":"calendar_remove"}
+{"sentence":"Удали повторяющуюся встречу по вторникам","intent":"calendar_remove"}
+{"sentence":"Жұма кешіндегі іс-шараны алып таста","intent":"calendar_remove"}
+{"sentence":"Ертеңгі қоңырауды жоспардан алып таста","intent":"calendar_remove"}
+{"sentence":"Жексенбідегі барлық оқиғаны жой","intent":"calendar_remove"}
+{"sentence":"Сейсенбі сайынғы кездесуді күнтізбеден өшір","intent":"calendar_remove"}
+{"sentence":"Cancel Friday evening's event","intent":"calendar_remove"}
+{"sentence":"Remove tomorrow's call from my schedule","intent":"calendar_remove"}
+{"sentence":"Clear all events on Sunday","intent":"calendar_remove"}
+{"sentence":"Delete my recurring Tuesday meeting","intent":"calendar_remove"}
+{"sentence":"Добавь встречу с Айнур на пятницу в три","intent":"calendar_set"}
+{"sentence":"Запиши в календарь визит к врачу завтра в десять","intent":"calendar_set"}
+{"sentence":"Создай событие «ужин» на субботу вечером","intent":"calendar_set"}
+{"sentence":"Запланируй совещание на понедельник к девяти","intent":"calendar_set"}
+{"sentence":"Жұма күні үшке Айнұрмен кездесуді қосшы","intent":"calendar_set"}
+{"sentence":"Ертең сағат ондағы дәрігер қабылдауын күнтізбеге жаз","intent":"calendar_set"}
+{"sentence":"Сенбі кешіне «кешкі ас» іс-шарасын құр","intent":"calendar_set"}
+{"sentence":"Дүйсенбі тоғызға жиналыс жоспарла","intent":"calendar_set"}
+{"sentence":"Add a meeting with Amina on Friday at three","intent":"calendar_set"}
+{"sentence":"Put my doctor's visit on the calendar for tomorrow at ten","intent":"calendar_set"}
+{"sentence":"Create a dinner event for Saturday evening","intent":"calendar_set"}
+{"sentence":"Schedule a meeting for Monday at nine","intent":"calendar_set"}
+{"sentence":"Запусти робот-пылесос в гостиной","intent":"cleaning"}
+{"sentence":"Пусть пылесос уберёт пол на кухне","intent":"cleaning"}
+{"sentence":"Начни уборку квартиры роботом","intent":"cleaning"}
+{"sentence":"Пропылесось комнату прямо сейчас","intent":"cleaning"}
+{"sentence":"Қонақ бөлмеде робот шаңсорғышты іске қос","intent":"cleaning"}
+{"sentence":"Асүйдің еденін шаңсорғыш тазаласын","intent":"cleaning"}
+{"sentence":"Пәтерді роботпен жинауды баста","intent":"cleaning"}
+{"sentence":"Бөлмені қазір шаңсорғышпен тазала","intent":"cleaning"}
+{"sentence":"Start the robot vacuum in the living room","intent":"cleaning"}
+{"sentence":"Have the vacuum clean the kitchen floor","intent":"cleaning"}
+{"sentence":"Begin cleaning the apartment with the robot","intent":"cleaning"}
+{"sentence":"Vacuum the bedroom right now","intent":"cleaning"}
+{"sentence":"Приготовь эспрессо сейчас","intent":"coffee"}
+{"sentence":"Хочу горячий кофе к завтраку","intent":"coffee"}
+{"sentence":"Свари мне капучино","intent":"coffee"}
+{"sentence":"Налей свежего кофе","intent":"coffee"}
+{"sentence":"Қазір эспрессо жасап бер","intent":"coffee"}
+{"sentence":"Таңғы асқа ыстық кофе керек","intent":"coffee"}
+{"sentence":"Маған капучино әзірле","intent":"coffee"}
+{"sentence":"Жаңа қайнатылған кофе құйшы","intent":"coffee"}
+{"sentence":"Prepare an espresso now","intent":"coffee"}
+{"sentence":"I want hot coffee with breakfast","intent":"coffee"}
+{"sentence":"Make me a cappuccino","intent":"coffee"}
+{"sentence":"Brew some fresh coffee","intent":"coffee"}
+{"sentence":"Можно ли заменить сливки молоком в супе?","intent":"cooking_query"}
+{"sentence":"Как понять, что курица уже готова?","intent":"cooking_query"}
+{"sentence":"Что приготовить из картошки и яиц?","intent":"cooking_query"}
+{"sentence":"Сколько времени запекать рыбу?","intent":"cooking_query"}
+{"sentence":"Сорпаға кілегейдің орнына сүт қоссам бола ма?","intent":"cooking_query"}
+{"sentence":"Тауықтың піскенін қалай білемін?","intent":"cooking_query"}
+{"sentence":"Картоп пен жұмыртқадан не әзірлеймін?","intent":"cooking_query"}
+{"sentence":"Балықты қанша уақыт пісіру керек?","intent":"cooking_query"}
+{"sentence":"Can I replace cream with milk in soup?","intent":"cooking_query"}
+{"sentence":"How can I tell if the chicken is cooked?","intent":"cooking_query"}
+{"sentence":"What can I make with potatoes and eggs?","intent":"cooking_query"}
+{"sentence":"How long should I bake this fish?","intent":"cooking_query"}
+{"sentence":"Какие ингредиенты нужны для сырников?","intent":"cooking_recipe"}
+{"sentence":"Расскажи рецепт плова по шагам","intent":"cooking_recipe"}
+{"sentence":"Как приготовить овощную лазанью?","intent":"cooking_recipe"}
+{"sentence":"Покажи рецепт печенья без сахара","intent":"cooking_recipe"}
+{"sentence":"Ірімшік құймағына қандай өнімдер керек?","intent":"cooking_recipe"}
+{"sentence":"Палаудың рецептін ретімен айтып бер","intent":"cooking_recipe"}
+{"sentence":"Көкөніс лазаньясын қалай дайындаймын?","intent":"cooking_recipe"}
+{"sentence":"Қантсыз печеньенің рецептін көрсет","intent":"cooking_recipe"}
+{"sentence":"What ingredients do I need for pancakes?","intent":"cooking_recipe"}
+{"sentence":"Give me step-by-step instructions for pilaf","intent":"cooking_recipe"}
+{"sentence":"How do I make vegetable lasagna?","intent":"cooking_recipe"}
+{"sentence":"Show me a sugar-free cookie recipe","intent":"cooking_recipe"}
+{"sentence":"Создай новый список покупок","intent":"createoradd"}
+{"sentence":"Открой новый список задач","intent":"createoradd"}
+{"sentence":"Внеси зубную пасту в список покупок","intent":"createoradd"}
+{"sentence":"Заведи отдельный список для поездки","intent":"createoradd"}
+{"sentence":"Жаңа сатып алу тізімін жаса","intent":"createoradd"}
+{"sentence":"Жаңа тапсырмалар тізімін аш","intent":"createoradd"}
+{"sentence":"Сатып алу тізіміне тіс пастасын енгіз","intent":"createoradd"}
+{"sentence":"Сапарға бөлек тізім құршы","intent":"createoradd"}
+{"sentence":"Create a new shopping list","intent":"createoradd"}
+{"sentence":"Start a new task list","intent":"createoradd"}
+{"sentence":"Put toothpaste on my shopping list","intent":"createoradd"}
+{"sentence":"Make a separate packing list","intent":"createoradd"}
+{"sentence":"Сколько тенге дают за один доллар?","intent":"currency"}
+{"sentence":"Переведи сто долларов в тенге","intent":"currency"}
+{"sentence":"Сколько юаней в тысяче тенге?","intent":"currency"}
+{"sentence":"Покажи курс фунта к евро","intent":"currency"}
+{"sentence":"Бір долларға қанша теңге береді?","intent":"currency"}
+{"sentence":"Жүз долларды теңгеге айналдыр","intent":"currency"}
+{"sentence":"Мың теңге қанша юань болады?","intent":"currency"}
+{"sentence":"Фунттың еуроға бағамын көрсет","intent":"currency"}
+{"sentence":"How many tenge do I get for one dollar?","intent":"currency"}
+{"sentence":"Convert one hundred dollars to tenge","intent":"currency"}
+{"sentence":"How many yuan is one thousand tenge?","intent":"currency"}
+{"sentence":"Show the pound to euro rate","intent":"currency"}
+{"sentence":"Если в Алматы полдень, сколько времени в Лондоне?","intent":"datetime_convert"}
+{"sentence":"Переведи девять вечера по Москве во время Астаны","intent":"datetime_convert"}
+{"sentence":"Сколько будет в Токио, когда здесь восемь утра?","intent":"datetime_convert"}
+{"sentence":"Преобразуй время встречи из UTC в алматинское","intent":"datetime_convert"}
+{"sentence":"Алматыда түс болса, Лондонда сағат неше?","intent":"datetime_convert"}
+{"sentence":"Мәскеудегі кешкі тоғызды Астана уақытына аудар","intent":"datetime_convert"}
+{"sentence":"Мұнда таңғы сегіз болса, Токиода сағат неше?","intent":"datetime_convert"}
+{"sentence":"Кездесу уақытын UTC-ден Алматы уақытына айналдыр","intent":"datetime_convert"}
+{"sentence":"If it is noon in Almaty, what time is it in London?","intent":"datetime_convert"}
+{"sentence":"Convert nine p.m. Moscow time to Astana time","intent":"datetime_convert"}
+{"sentence":"What time is it in Tokyo when it is eight here?","intent":"datetime_convert"}
+{"sentence":"Change the meeting time from UTC to Almaty time","intent":"datetime_convert"}
+{"sentence":"Который час сейчас в Алматы?","intent":"datetime_query"}
+{"sentence":"Сколько времени в Москве?","intent":"datetime_query"}
+{"sentence":"Назови точное местное время","intent":"datetime_query"}
+{"sentence":"Который час в Токио прямо сейчас?","intent":"datetime_query"}
+{"sentence":"Қазір Алматыда сағат неше?","intent":"datetime_query"}
+{"sentence":"Мәскеуде сағат қанша?","intent":"datetime_query"}
+{"sentence":"Жергілікті уақытты дәл айтшы","intent":"datetime_query"}
+{"sentence":"Дәл қазір Токиода сағат неше?","intent":"datetime_query"}
+{"sentence":"What time is it now in Almaty?","intent":"datetime_query"}
+{"sentence":"What is the current time in Moscow?","intent":"datetime_query"}
+{"sentence":"Tell me the exact local time","intent":"datetime_query"}
+{"sentence":"What time is it in Tokyo right now?","intent":"datetime_query"}
+{"sentence":"Добавь адрес dana@example.com к контакту Дана","intent":"email_addcontact"}
+{"sentence":"Создай контакт для нового коллеги Армана","intent":"email_addcontact"}
+{"sentence":"Запиши рабочий имейл Бекзата в адресную книгу","intent":"email_addcontact"}
+{"sentence":"Добавь электронный адрес мамы в контакты","intent":"email_addcontact"}
+{"sentence":"dana@example.com мекенжайын Дана контактісіне қос","intent":"email_addcontact"}
+{"sentence":"Жаңа әріптес Арманға контакт жаса","intent":"email_addcontact"}
+{"sentence":"Бекзаттың жұмыс поштасын мекенжай кітабына жаз","intent":"email_addcontact"}
+{"sentence":"Анамның электрондық мекенжайын контактілерге қос","intent":"email_addcontact"}
+{"sentence":"Add dana@example.com to Dana's contact","intent":"email_addcontact"}
+{"sentence":"Create a contact for my new colleague Arman","intent":"email_addcontact"}
+{"sentence":"Save Bekzat's work email in my address book","intent":"email_addcontact"}
+{"sentence":"Add my mother's email address to my contacts","intent":"email_addcontact"}
+{"sentence":"Проверь новые письма за сегодня","intent":"email_query"}
+{"sentence":"Есть ли непрочитанные письма от Даны?","intent":"email_query"}
+{"sentence":"Покажи входящие за последнюю неделю","intent":"email_query"}
+{"sentence":"Найди письмо с темой «отчёт»","intent":"email_query"}
+{"sentence":"Бүгінгі жаңа хаттарды тексер","intent":"email_query"}
+{"sentence":"Данадан оқылмаған хат бар ма?","intent":"email_query"}
+{"sentence":"Соңғы аптадағы кіріс хаттарды көрсет","intent":"email_query"}
+{"sentence":"«Есеп» тақырыбындағы хатты тап","intent":"email_query"}
+{"sentence":"Check for new emails today","intent":"email_query"}
+{"sentence":"Are there unread emails from Dana?","intent":"email_query"}
+{"sentence":"Show my inbox from the past week","intent":"email_query"}
+{"sentence":"Find the email with the subject report","intent":"email_query"}
+{"sentence":"Покажи электронный адрес Алии из контактов","intent":"email_querycontact"}
+{"sentence":"Найди рабочую почту Даны в адресной книге","intent":"email_querycontact"}
+{"sentence":"У кого в контактах адрес dana@example.com?","intent":"email_querycontact"}
+{"sentence":"Открой контакт Бекзата и покажи почту","intent":"email_querycontact"}
+{"sentence":"Контактілерден Әлияның электрондық мекенжайын көрсет","intent":"email_querycontact"}
+{"sentence":"Мекенжай кітабынан Дананың жұмыс поштасын тап","intent":"email_querycontact"}
+{"sentence":"Контактілерде dana@example.com кімге тиесілі?","intent":"email_querycontact"}
+{"sentence":"Бекзаттың контактісін ашып, поштасын көрсет","intent":"email_querycontact"}
+{"sentence":"Show Aliya's email address from my contacts","intent":"email_querycontact"}
+{"sentence":"Find Dana's work email in my address book","intent":"email_querycontact"}
+{"sentence":"Whose contact has dana@example.com?","intent":"email_querycontact"}
+{"sentence":"Open Bekzat's contact and show the email address","intent":"email_querycontact"}
+{"sentence":"Отправь Дане письмо с отчётом","intent":"email_sendemail"}
+{"sentence":"Напиши Арману, что встречу перенесли","intent":"email_sendemail"}
+{"sentence":"Ответь на последнее письмо от коллеги","intent":"email_sendemail"}
+{"sentence":"Пошли маме письмо с фотографиями","intent":"email_sendemail"}
+{"sentence":"Данаға есепті хатпен жібер","intent":"email_sendemail"}
+{"sentence":"Арманға кездесу ауысқанын жаз","intent":"email_sendemail"}
+{"sentence":"Әріптестің соңғы хатына жауап бер","intent":"email_sendemail"}
+{"sentence":"Анама суреттері бар хат жолда","intent":"email_sendemail"}
+{"sentence":"Send Dana an email with the report","intent":"email_sendemail"}
+{"sentence":"Write Arman that the meeting was moved","intent":"email_sendemail"}
+{"sentence":"Reply to the latest email from my colleague","intent":"email_sendemail"}
+{"sentence":"Email the photos to my mother","intent":"email_sendemail"}
+{"sentence":"Какая столица Австралии?","intent":"factoid"}
+{"sentence":"Сколько материков на Земле?","intent":"factoid"}
+{"sentence":"Кто написал «Войну и мир»?","intent":"factoid"}
+{"sentence":"Где находится гора Эверест?","intent":"factoid"}
+{"sentence":"Аустралияның астанасы қай қала?","intent":"factoid"}
+{"sentence":"Жер бетінде неше материк бар?","intent":"factoid"}
+{"sentence":"«Соғыс және бейбітшілік» романын кім жазды?","intent":"factoid"}
+{"sentence":"Эверест тауы қай жерде орналасқан?","intent":"factoid"}
+{"sentence":"What is the capital of Australia?","intent":"factoid"}
+{"sentence":"How many continents are there?","intent":"factoid"}
+{"sentence":"Who wrote War and Peace?","intent":"factoid"}
+{"sentence":"Where is Mount Everest located?","intent":"factoid"}
+{"sentence":"Открой шахматы и начни игру","intent":"game"}
+{"sentence":"Давай сыграем в шашки","intent":"game"}
+{"sentence":"Открой список доступных игр","intent":"game"}
+{"sentence":"Начни новую партию в скрэббл","intent":"game"}
+{"sentence":"Шахматты ашып, ойынды баста","intent":"game"}
+{"sentence":"Кел, дойбы ойнайық","intent":"game"}
+{"sentence":"Қолжетімді ойындардың тізімін аш","intent":"game"}
+{"sentence":"Скрабблдың жаңа ойынын баста","intent":"game"}
+{"sentence":"Open chess and start a game","intent":"game"}
+{"sentence":"Let us play checkers","intent":"game"}
+{"sentence":"Show me the available games","intent":"game"}
+{"sentence":"Start a new Scrabble match","intent":"game"}
+{"sentence":"Привет, как дела?","intent":"general_greet"}
+{"sentence":"Доброе утро, как поживаешь?","intent":"general_greet"}
+{"sentence":"Здравствуй, рад тебя слышать","intent":"general_greet"}
+{"sentence":"Привет, чем занимаешься?","intent":"general_greet"}
+{"sentence":"Сәлем, қалайсың?","intent":"general_greet"}
+{"sentence":"Қайырлы таң, жағдайың қалай?","intent":"general_greet"}
+{"sentence":"Сәлеметсің бе, сені естігеніме қуаныштымын","intent":"general_greet"}
+{"sentence":"Сәлем, не істеп жатырсың?","intent":"general_greet"}
+{"sentence":"Hello, how are you doing?","intent":"general_greet"}
+{"sentence":"Good morning, how have you been?","intent":"general_greet"}
+{"sentence":"Hi, it is nice to hear from you","intent":"general_greet"}
+{"sentence":"Hey, what are you up to?","intent":"general_greet"}
+{"sentence":"Расскажи мне смешной анекдот","intent":"general_joke"}
+{"sentence":"Пошути, пожалуйста","intent":"general_joke"}
+{"sentence":"Хочу услышать короткую шутку","intent":"general_joke"}
+{"sentence":"Развесели меня забавной историей","intent":"general_joke"}
+{"sentence":"Маған күлкілі анекдот айтып берші","intent":"general_joke"}
+{"sentence":"Бір әзіл айтшы","intent":"general_joke"}
+{"sentence":"Қысқа қалжың естігім келеді","intent":"general_joke"}
+{"sentence":"Көңілімді көтеретін қызық оқиға айт","intent":"general_joke"}
+{"sentence":"Tell me a funny joke","intent":"general_joke"}
+{"sentence":"Could you make a joke, please?","intent":"general_joke"}
+{"sentence":"I would like to hear a short joke","intent":"general_joke"}
+{"sentence":"Cheer me up with a funny story","intent":"general_joke"}
+{"sentence":"Если бы ты был котом, как бы тебя звали?","intent":"general_quirky"}
+{"sentence":"Ты когда-нибудь скучаешь по разговорам?","intent":"general_quirky"}
+{"sentence":"Можно считать тебя моим другом?","intent":"general_quirky"}
+{"sentence":"Как думаешь, роботы любят выходные?","intent":"general_quirky"}
+{"sentence":"Егер сен мысық болсаң, атың кім болар еді?","intent":"general_quirky"}
+{"sentence":"Сөйлесуді сағынасың ба?","intent":"general_quirky"}
+{"sentence":"Сені досым деп санасам бола ма?","intent":"general_quirky"}
+{"sentence":"Роботтар демалыс күндерін ұната ма?","intent":"general_quirky"}
+{"sentence":"If you were a cat, what would your name be?","intent":"general_quirky"}
+{"sentence":"Do you ever miss having conversations?","intent":"general_quirky"}
+{"sentence":"Can I consider you my friend?","intent":"general_quirky"}
+{"sentence":"Do robots enjoy weekends?","intent":"general_quirky"}
+{"sentence":"Привет, Олли","intent":"greet"}
+{"sentence":"Здравствуйте","intent":"greet"}
+{"sentence":"Добрый день","intent":"greet"}
+{"sentence":"Салют","intent":"greet"}
+{"sentence":"Сәлем, Олли","intent":"greet"}
+{"sentence":"Сәлеметсіз бе","intent":"greet"}
+{"sentence":"Қайырлы күн","intent":"greet"}
+{"sentence":"Армысың","intent":"greet"}
+{"sentence":"Hello, Olly","intent":"greet"}
+{"sentence":"Greetings","intent":"greet"}
+{"sentence":"Good afternoon","intent":"greet"}
+{"sentence":"Hey there","intent":"greet"}
+{"sentence":"Приглуши лампу в спальне","intent":"hue_lightdim"}
+{"sentence":"Убавь яркость ламп до тридцати процентов","intent":"hue_lightdim"}
+{"sentence":"Понизь освещение в коридоре","intent":"hue_lightdim"}
+{"sentence":"Слишком ярко, уменьши свет","intent":"hue_lightdim"}
+{"sentence":"Жатын бөлмедегі шамды бәсеңдет","intent":"hue_lightdim"}
+{"sentence":"Шамдардың жарықтығын отыз пайызға түсір","intent":"hue_lightdim"}
+{"sentence":"Дәліздегі жарықты азайт","intent":"hue_lightdim"}
+{"sentence":"Өте жарық екен, шамды бәсеңдет","intent":"hue_lightdim"}
+{"sentence":"Dim the bedroom lamp","intent":"hue_lightdim"}
+{"sentence":"Lower the lamps to thirty percent brightness","intent":"hue_lightdim"}
+{"sentence":"Reduce the hallway lighting","intent":"hue_lightdim"}
+{"sentence":"It is too bright, dim the lights","intent":"hue_lightdim"}
+{"sentence":"Погаси лампу на кухне","intent":"hue_lightoff"}
+{"sentence":"Выключи весь свет в спальне","intent":"hue_lightoff"}
+{"sentence":"Отключи свет в коридоре","intent":"hue_lightoff"}
+{"sentence":"Выруби освещение в ванной","intent":"hue_lightoff"}
+{"sentence":"Асүйдегі шамды сөндір","intent":"hue_lightoff"}
+{"sentence":"Жатын бөлмедегі барлық жарықты өшір","intent":"hue_lightoff"}
+{"sentence":"Дәліздегі жарықты сөндір","intent":"hue_lightoff"}
+{"sentence":"Жуынатын бөлмедегі жарықты өшір","intent":"hue_lightoff"}
+{"sentence":"Turn off the kitchen lamp","intent":"hue_lightoff"}
+{"sentence":"Switch off every light in the bedroom","intent":"hue_lightoff"}
+{"sentence":"Turn off the hallway lights","intent":"hue_lightoff"}
+{"sentence":"Switch off the bathroom lighting","intent":"hue_lightoff"}
+{"sentence":"Сделай лампу в спальне ярче","intent":"hue_lightup"}
+{"sentence":"Добавь яркости свету на кухне","intent":"hue_lightup"}
+{"sentence":"Освети комнату посильнее","intent":"hue_lightup"}
+{"sentence":"Прибавь света в коридоре","intent":"hue_lightup"}
+{"sentence":"Жатын бөлмедегі шамды жарығырақ қыл","intent":"hue_lightup"}
+{"sentence":"Асүйдегі жарықты күшейт","intent":"hue_lightup"}
+{"sentence":"Бөлмені жарығырақ ет","intent":"hue_lightup"}
+{"sentence":"Дәліздегі жарықты арттыр","intent":"hue_lightup"}
+{"sentence":"Make the bedroom lamp brighter","intent":"hue_lightup"}
+{"sentence":"Increase the kitchen light brightness","intent":"hue_lightup"}
+{"sentence":"Brighten up the room","intent":"hue_lightup"}
+{"sentence":"Turn up the hallway lights","intent":"hue_lightup"}
+{"sentence":"Включи умный пылесос на кухне","intent":"iot_cleaning"}
+{"sentence":"Отправь робот-пылесос убирать прихожую","intent":"iot_cleaning"}
+{"sentence":"Пусть робот-пылесос пройдётся по спальне","intent":"iot_cleaning"}
+{"sentence":"Начни влажную уборку роботом","intent":"iot_cleaning"}
+{"sentence":"Асүйде ақылды шаңсорғышты қос","intent":"iot_cleaning"}
+{"sentence":"Робот шаңсорғышты кіреберісті тазалауға жібер","intent":"iot_cleaning"}
+{"sentence":"Робот шаңсорғыш жатын бөлмені тазаласын","intent":"iot_cleaning"}
+{"sentence":"Роботпен дымқыл тазалауды баста","intent":"iot_cleaning"}
+{"sentence":"Turn on the smart vacuum in the kitchen","intent":"iot_cleaning"}
+{"sentence":"Send the robot vacuum to clean the entryway","intent":"iot_cleaning"}
+{"sentence":"Make the robot vacuum clean the bedroom","intent":"iot_cleaning"}
+{"sentence":"Start mopping with the cleaning robot","intent":"iot_cleaning"}
+{"sentence":"Включи кофемашину на кухне","intent":"iot_coffee"}
+{"sentence":"Запусти умную кофемашину к семи утра","intent":"iot_coffee"}
+{"sentence":"Свари латте через кофемашину","intent":"iot_coffee"}
+{"sentence":"Включи кофеварку перед завтраком","intent":"iot_coffee"}
+{"sentence":"Асүйдегі кофе машинасын қос","intent":"iot_coffee"}
+{"sentence":"Ақылды кофе машинасын таңғы жетіге іске қос","intent":"iot_coffee"}
+{"sentence":"Кофе машинасымен латте дайында","intent":"iot_coffee"}
+{"sentence":"Таңғы ас алдында кофеқайнатқышты қос","intent":"iot_coffee"}
+{"sentence":"Turn on the kitchen coffee machine","intent":"iot_coffee"}
+{"sentence":"Start the smart coffee machine at seven","intent":"iot_coffee"}
+{"sentence":"Make a latte with the coffee machine","intent":"iot_coffee"}
+{"sentence":"Switch on the coffee maker before breakfast","intent":"iot_coffee"}
+{"sentence":"Поменяй цвет лампы на синий","intent":"iot_hue_lightchange"}
+{"sentence":"Установи тёплый жёлтый цвет света","intent":"iot_hue_lightchange"}
+{"sentence":"Переключи умную лампу на фиолетовый","intent":"iot_hue_lightchange"}
+{"sentence":"Пусть лампы светят красным","intent":"iot_hue_lightchange"}
+{"sentence":"Шамның түсін көкке өзгерт","intent":"iot_hue_lightchange"}
+{"sentence":"Жарыққа жылы сары түс орнат","intent":"iot_hue_lightchange"}
+{"sentence":"Ақылды шамды күлгін түске ауыстыр","intent":"iot_hue_lightchange"}
+{"sentence":"Шамдар қызыл түспен жансын","intent":"iot_hue_lightchange"}
+{"sentence":"Change the lamp color to blue","intent":"iot_hue_lightchange"}
+{"sentence":"Set the lights to a warm yellow","intent":"iot_hue_lightchange"}
+{"sentence":"Switch the smart bulb to purple","intent":"iot_hue_lightchange"}
+{"sentence":"Make the lamps glow red","intent":"iot_hue_lightchange"}
+{"sentence":"Приглуши умный свет в гостиной","intent":"iot_hue_lightdim"}
+{"sentence":"Убавь яркость лампы Hue на двадцать процентов","intent":"iot_hue_lightdim"}
+{"sentence":"Понизь свет в ванной до минимума","intent":"iot_hue_lightdim"}
+{"sentence":"Уменьши яркость потолочного света","intent":"iot_hue_lightdim"}
+{"sentence":"Қонақ бөлмедегі ақылды жарықты бәсеңдет","intent":"iot_hue_lightdim"}
+{"sentence":"Hue шамының жарықтығын жиырма пайызға азайт","intent":"iot_hue_lightdim"}
+{"sentence":"Жуынатын бөлмедегі жарықты ең төменге түсір","intent":"iot_hue_lightdim"}
+{"sentence":"Төбедегі шамның жарықтығын азайт","intent":"iot_hue_lightdim"}
+{"sentence":"Dim the smart lights in the living room","intent":"iot_hue_lightdim"}
+{"sentence":"Lower the Hue bulb brightness by twenty percent","intent":"iot_hue_lightdim"}
+{"sentence":"Reduce the bathroom lights to minimum brightness","intent":"iot_hue_lightdim"}
+{"sentence":"Turn down the ceiling light brightness","intent":"iot_hue_lightdim"}
+{"sentence":"Погаси лампы Hue в спальне","intent":"iot_hue_lightoff"}
+{"sentence":"Отключи освещение на балконе","intent":"iot_hue_lightoff"}
+{"sentence":"Пусть умная лампа в коридоре погаснет","intent":"iot_hue_lightoff"}
+{"sentence":"Выключи свет во всей квартире","intent":"iot_hue_lightoff"}
+{"sentence":"Жатын бөлмедегі Hue шамдарын сөндір","intent":"iot_hue_lightoff"}
+{"sentence":"Балкондағы жарықты өшір","intent":"iot_hue_lightoff"}
+{"sentence":"Дәліздегі ақылды шамды сөндір","intent":"iot_hue_lightoff"}
+{"sentence":"Пәтердегі барлық жарықты өшір","intent":"iot_hue_lightoff"}
+{"sentence":"Switch off the Hue bulbs in the bedroom","intent":"iot_hue_lightoff"}
+{"sentence":"Turn off the balcony lighting","intent":"iot_hue_lightoff"}
+{"sentence":"Make the smart hallway lamp go dark","intent":"iot_hue_lightoff"}
+{"sentence":"Switch off every light in the apartment","intent":"iot_hue_lightoff"}
+{"sentence":"Зажги умные лампы на кухне","intent":"iot_hue_lighton"}
+{"sentence":"Включи все лампы Hue в спальне","intent":"iot_hue_lighton"}
+{"sentence":"Пусть в гостиной загорится свет","intent":"iot_hue_lighton"}
+{"sentence":"Включи потолочную лампу","intent":"iot_hue_lighton"}
+{"sentence":"Асүйдегі ақылды шамдарды жақ","intent":"iot_hue_lighton"}
+{"sentence":"Жатын бөлмедегі барлық Hue шамдарын қос","intent":"iot_hue_lighton"}
+{"sentence":"Қонақ бөлмеде жарық жансын","intent":"iot_hue_lighton"}
+{"sentence":"Төбедегі шамды қос","intent":"iot_hue_lighton"}
+{"sentence":"Switch on the smart bulbs in the kitchen","intent":"iot_hue_lighton"}
+{"sentence":"Turn on all the bedroom Hue lights","intent":"iot_hue_lighton"}
+{"sentence":"Light up the living room","intent":"iot_hue_lighton"}
+{"sentence":"Switch on the ceiling lamp","intent":"iot_hue_lighton"}
+{"sentence":"Сделай умные лампы ярче","intent":"iot_hue_lightup"}
+{"sentence":"Повысь яркость света в гостиной","intent":"iot_hue_lightup"}
+{"sentence":"Увеличь яркость Hue до девяноста процентов","intent":"iot_hue_lightup"}
+{"sentence":"Подними яркость лампы в кабинете","intent":"iot_hue_lightup"}
+{"sentence":"Ақылды шамдарды жарығырақ қыл","intent":"iot_hue_lightup"}
+{"sentence":"Қонақ бөлмедегі жарықты күшейт","intent":"iot_hue_lightup"}
+{"sentence":"Hue жарықтығын тоқсан пайызға көтер","intent":"iot_hue_lightup"}
+{"sentence":"Жұмыс бөлмесіндегі шамды жарығырақ ет","intent":"iot_hue_lightup"}
+{"sentence":"Make the smart bulbs brighter","intent":"iot_hue_lightup"}
+{"sentence":"Increase the living room light brightness","intent":"iot_hue_lightup"}
+{"sentence":"Raise Hue brightness to ninety percent","intent":"iot_hue_lightup"}
+{"sentence":"Turn up the office lamp brightness","intent":"iot_hue_lightup"}
+{"sentence":"Выключи розетку WeMo на кухне","intent":"iot_wemo_off"}
+{"sentence":"Обесточь умный штекер у телевизора","intent":"iot_wemo_off"}
+{"sentence":"Пусть умная розетка для чайника выключится","intent":"iot_wemo_off"}
+{"sentence":"Выруби питание через WeMo","intent":"iot_wemo_off"}
+{"sentence":"Асүйдегі WeMo розеткасын сөндір","intent":"iot_wemo_off"}
+{"sentence":"Теледидар жанындағы ақылды розетканы өшір","intent":"iot_wemo_off"}
+{"sentence":"Шайнектің ақылды розеткасын ажырат","intent":"iot_wemo_off"}
+{"sentence":"WeMo арқылы берілетін қуатты өшір","intent":"iot_wemo_off"}
+{"sentence":"Switch off the kitchen WeMo plug","intent":"iot_wemo_off"}
+{"sentence":"Cut power to the smart plug by the television","intent":"iot_wemo_off"}
+{"sentence":"Turn off the kettle's smart outlet","intent":"iot_wemo_off"}
+{"sentence":"Disable power through the WeMo socket","intent":"iot_wemo_off"}
+{"sentence":"Включи умную розетку у стола","intent":"iot_wemo_on"}
+{"sentence":"Подай питание на розетку WeMo","intent":"iot_wemo_on"}
+{"sentence":"Пусть умная розетка чайника заработает","intent":"iot_wemo_on"}
+{"sentence":"Активируй WeMo в гостиной","intent":"iot_wemo_on"}
+{"sentence":"Үстел жанындағы ақылды розетканы қос","intent":"iot_wemo_on"}
+{"sentence":"WeMo розеткасына қуат бер","intent":"iot_wemo_on"}
+{"sentence":"Шайнектің ақылды розеткасы іске қосылсын","intent":"iot_wemo_on"}
+{"sentence":"Қонақ бөлмедегі WeMo құрылғысын қос","intent":"iot_wemo_on"}
+{"sentence":"Turn on the smart outlet by my desk","intent":"iot_wemo_on"}
+{"sentence":"Supply power to the WeMo plug","intent":"iot_wemo_on"}
+{"sentence":"Activate the kettle's smart outlet","intent":"iot_wemo_on"}
+{"sentence":"Turn on the WeMo plug in the living room","intent":"iot_wemo_on"}
+{"sentence":"Расскажи анекдот","intent":"joke"}
+{"sentence":"Придумай короткую шутку","intent":"joke"}
+{"sentence":"Скажи что-нибудь смешное","intent":"joke"}
+{"sentence":"Подними настроение анекдотом","intent":"joke"}
+{"sentence":"Анекдот айтып берші","intent":"joke"}
+{"sentence":"Қысқа әзіл ойлап тап","intent":"joke"}
+{"sentence":"Бір күлкілі нәрсе айтшы","intent":"joke"}
+{"sentence":"Анекдотпен көңілімді көтер","intent":"joke"}
+{"sentence":"Tell me a joke","intent":"joke"}
+{"sentence":"Make up a short joke","intent":"joke"}
+{"sentence":"Say something funny","intent":"joke"}
+{"sentence":"Cheer me up with a joke","intent":"joke"}
+{"sentence":"Создай список для похода в магазин","intent":"lists_createoradd"}
+{"sentence":"Добавь яблоки в список покупок","intent":"lists_createoradd"}
+{"sentence":"Запиши «позвонить врачу» в список дел","intent":"lists_createoradd"}
+{"sentence":"Заведи список вещей в поездку","intent":"lists_createoradd"}
+{"sentence":"Дүкенге баратын тізім жаса","intent":"lists_createoradd"}
+{"sentence":"Сатып алу тізіміне алма қос","intent":"lists_createoradd"}
+{"sentence":"Істер тізіміне «дәрігерге қоңырау шалу» деп жаз","intent":"lists_createoradd"}
+{"sentence":"Сапарға керек заттардың тізімін құр","intent":"lists_createoradd"}
+{"sentence":"Create a list for my trip to the store","intent":"lists_createoradd"}
+{"sentence":"Add apples to my shopping list","intent":"lists_createoradd"}
+{"sentence":"Put call the doctor on my to-do list","intent":"lists_createoradd"}
+{"sentence":"Make a packing list for my trip","intent":"lists_createoradd"}
+{"sentence":"Что записано в моём списке дел?","intent":"lists_query"}
+{"sentence":"Покажи список покупок","intent":"lists_query"}
+{"sentence":"Прочитай список вещей для поездки","intent":"lists_query"}
+{"sentence":"Есть ли яйца в продуктовом списке?","intent":"lists_query"}
+{"sentence":"Істер тізімімде не жазылған?","intent":"lists_query"}
+{"sentence":"Сатып алу тізімін көрсет","intent":"lists_query"}
+{"sentence":"Сапарға керек заттардың тізімін оқы","intent":"lists_query"}
+{"sentence":"Азық-түлік тізімінде жұмыртқа бар ма?","intent":"lists_query"}
+{"sentence":"What is on my to-do list?","intent":"lists_query"}
+{"sentence":"Show me the shopping list","intent":"lists_query"}
+{"sentence":"Read my travel packing list","intent":"lists_query"}
+{"sentence":"Are eggs on my grocery list?","intent":"lists_query"}
+{"sentence":"Убери выполненную задачу из списка дел","intent":"lists_remove"}
+{"sentence":"Сотри весь список вещей для поездки","intent":"lists_remove"}
+{"sentence":"Исключи хлеб из продуктового списка","intent":"lists_remove"}
+{"sentence":"Удали список «идеи для подарков»","intent":"lists_remove"}
+{"sentence":"Орындалған тапсырманы істер тізімінен алып таста","intent":"lists_remove"}
+{"sentence":"Сапар заттарының тізімін түгел жой","intent":"lists_remove"}
+{"sentence":"Азық-түлік тізімінен нанды алып таста","intent":"lists_remove"}
+{"sentence":"«Сыйлық идеялары» тізімін өшір","intent":"lists_remove"}
+{"sentence":"Delete the completed task from my to-do list","intent":"lists_remove"}
+{"sentence":"Erase my entire travel packing list","intent":"lists_remove"}
+{"sentence":"Take bread off the grocery list","intent":"lists_remove"}
+{"sentence":"Delete the list called gift ideas","intent":"lists_remove"}
+{"sentence":"Включи джазовую музыку","intent":"music"}
+{"sentence":"Поставь что-нибудь из старого рока","intent":"music"}
+{"sentence":"Хочу послушать казахские песни","intent":"music"}
+{"sentence":"Запусти спокойную музыку для работы","intent":"music"}
+{"sentence":"Джаз музыкасын қосшы","intent":"music"}
+{"sentence":"Ескі роктан бірдеңе қой","intent":"music"}
+{"sentence":"Қазақ әндерін тыңдағым келеді","intent":"music"}
+{"sentence":"Жұмысқа жайлы музыка қос","intent":"music"}
+{"sentence":"Play some jazz music","intent":"music"}
+{"sentence":"Put on classic rock","intent":"music"}
+{"sentence":"I want to listen to Kazakh songs","intent":"music"}
+{"sentence":"Start calm music for working","intent":"music"}
+{"sentence":"Мне не нравится эта песня","intent":"music_dislikeness"}
+{"sentence":"Пометь этот трек как нелюбимый","intent":"music_dislikeness"}
+{"sentence":"Больше не включай эту композицию","intent":"music_dislikeness"}
+{"sentence":"Я не люблю этого исполнителя","intent":"music_dislikeness"}
+{"sentence":"Бұл ән маған ұнамайды","intent":"music_dislikeness"}
+{"sentence":"Осы тректі ұнамайтындар қатарына белгіле","intent":"music_dislikeness"}
+{"sentence":"Бұл әнді енді қоспа","intent":"music_dislikeness"}
+{"sentence":"Маған бұл орындаушы ұнамайды","intent":"music_dislikeness"}
+{"sentence":"I do not like this song","intent":"music_dislikeness"}
+{"sentence":"Mark this track as disliked","intent":"music_dislikeness"}
+{"sentence":"Do not play this song again","intent":"music_dislikeness"}
+{"sentence":"I dislike this artist","intent":"music_dislikeness"}
+{"sentence":"Добавь этой песне лайк","intent":"music_likeness"}
+{"sentence":"Отметь, что я люблю эту композицию","intent":"music_likeness"}
+{"sentence":"Классная музыка, запомни мой вкус","intent":"music_likeness"}
+{"sentence":"Поставь лайк текущему исполнителю","intent":"music_likeness"}
+{"sentence":"Осы әнге лайк қой","intent":"music_likeness"}
+{"sentence":"Бұл әнді жақсы көретінімді белгіле","intent":"music_likeness"}
+{"sentence":"Музыка күшті екен, талғамымды есте сақта","intent":"music_likeness"}
+{"sentence":"Қазіргі орындаушыға лайк қой","intent":"music_likeness"}
+{"sentence":"Give this song a thumbs up","intent":"music_likeness"}
+{"sentence":"Remember that I love this song","intent":"music_likeness"}
+{"sentence":"This music is great, remember my taste","intent":"music_likeness"}
+{"sentence":"Mark the current artist as a favorite","intent":"music_likeness"}
+{"sentence":"Как называется эта песня?","intent":"music_query"}
+{"sentence":"Кто поёт трек, который сейчас играет?","intent":"music_query"}
+{"sentence":"С какого альбома эта композиция?","intent":"music_query"}
+{"sentence":"Какой жанр у этой музыки?","intent":"music_query"}
+{"sentence":"Бұл ән қалай аталады?","intent":"music_query"}
+{"sentence":"Қазір ойнап тұрған тректі кім орындайды?","intent":"music_query"}
+{"sentence":"Бұл ән қай альбомнан?","intent":"music_query"}
+{"sentence":"Бұл музыка қай жанрға жатады?","intent":"music_query"}
+{"sentence":"What is this song called?","intent":"music_query"}
+{"sentence":"Who sings the track playing now?","intent":"music_query"}
+{"sentence":"Which album is this song from?","intent":"music_query"}
+{"sentence":"What genre is this music?","intent":"music_query"}
+{"sentence":"Включи случайный порядок треков","intent":"music_settings"}
+{"sentence":"Повтори текущий альбом с начала","intent":"music_settings"}
+{"sentence":"Отключи перемешивание музыки","intent":"music_settings"}
+{"sentence":"Настрой повтор плейлиста","intent":"music_settings"}
+{"sentence":"Әндерді кездейсоқ ретпен қос","intent":"music_settings"}
+{"sentence":"Қазіргі альбомды басынан қайтала","intent":"music_settings"}
+{"sentence":"Музыканы араластыруды өшір","intent":"music_settings"}
+{"sentence":"Плейлист қайталанып ойнасын","intent":"music_settings"}
+{"sentence":"Turn on shuffle for my music","intent":"music_settings"}
+{"sentence":"Repeat the current album from the beginning","intent":"music_settings"}
+{"sentence":"Turn off shuffle mode","intent":"music_settings"}
+{"sentence":"Set the playlist to loop","intent":"music_settings"}
+{"sentence":"Какие сегодня главные новости?","intent":"news_query"}
+{"sentence":"Расскажи последние новости Казахстана","intent":"news_query"}
+{"sentence":"Покажи новости технологий за утро","intent":"news_query"}
+{"sentence":"Что нового в мире спорта?","intent":"news_query"}
+{"sentence":"Бүгінгі басты жаңалықтар қандай?","intent":"news_query"}
+{"sentence":"Қазақстанның соңғы жаңалықтарын айт","intent":"news_query"}
+{"sentence":"Таңғы технология жаңалықтарын көрсет","intent":"news_query"}
+{"sentence":"Спорт әлемінде не жаңалық бар?","intent":"news_query"}
+{"sentence":"What are the top stories today?","intent":"news_query"}
+{"sentence":"Tell me the latest news from Kazakhstan","intent":"news_query"}
+{"sentence":"Show this morning's technology news","intent":"news_query"}
+{"sentence":"What is new in sports today?","intent":"news_query"}
+{"sentence":"Включи мою аудиокнигу","intent":"play_audiobook"}
+{"sentence":"Продолжи слушать «Абай жолы»","intent":"play_audiobook"}
+{"sentence":"Воспроизведи книгу с того места, где я остановился","intent":"play_audiobook"}
+{"sentence":"Начни аудиоверсию романа","intent":"play_audiobook"}
+{"sentence":"Аудиокітабымды қосшы","intent":"play_audiobook"}
+{"sentence":"«Абай жолын» тыңдауды жалғастыр","intent":"play_audiobook"}
+{"sentence":"Кітапты тоқтаған жерімнен қос","intent":"play_audiobook"}
+{"sentence":"Романның аудионұсқасын баста","intent":"play_audiobook"}
+{"sentence":"Play my audiobook","intent":"play_audiobook"}
+{"sentence":"Resume listening to The Path of Abai","intent":"play_audiobook"}
+{"sentence":"Play the book from where I stopped","intent":"play_audiobook"}
+{"sentence":"Begin the audio version of this novel","intent":"play_audiobook"}
+{"sentence":"Запусти игру в шахматы","intent":"play_game"}
+{"sentence":"Сыграй со мной в викторину","intent":"play_game"}
+{"sentence":"Открой игру «Змейка»","intent":"play_game"}
+{"sentence":"Давай начнём партию в шашки","intent":"play_game"}
+{"sentence":"Шахмат ойынын баста","intent":"play_game"}
+{"sentence":"Менімен викторина ойна","intent":"play_game"}
+{"sentence":"«Жылан» ойынын аш","intent":"play_game"}
+{"sentence":"Кел, дойбы ойынын бастайық","intent":"play_game"}
+{"sentence":"Start a chess game","intent":"play_game"}
+{"sentence":"Play a trivia game with me","intent":"play_game"}
+{"sentence":"Open the Snake game","intent":"play_game"}
+{"sentence":"Let us start a game of checkers","intent":"play_game"}
+{"sentence":"Поставь альбом Димаша","intent":"play_music"}
+{"sentence":"Включи мою любимую песню","intent":"play_music"}
+{"sentence":"Воспроизведи песни группы «МузАрт»","intent":"play_music"}
+{"sentence":"Включи музыку для сна","intent":"play_music"}
+{"sentence":"Димаштың альбомын қой","intent":"play_music"}
+{"sentence":"Сүйікті әнімді қосшы","intent":"play_music"}
+{"sentence":"«МузАрт» тобының әндерін ойнат","intent":"play_music"}
+{"sentence":"Ұйықтауға арналған музыка қос","intent":"play_music"}
+{"sentence":"Play Dimash's album","intent":"play_music"}
+{"sentence":"Put on my favorite song","intent":"play_music"}
+{"sentence":"Play songs by MuzArt","intent":"play_music"}
+{"sentence":"Turn on music for sleeping","intent":"play_music"}
+{"sentence":"Включи последний выпуск подкаста","intent":"play_podcasts"}
+{"sentence":"Запусти подкаст про науку","intent":"play_podcasts"}
+{"sentence":"Продолжи слушать мой любимый подкаст","intent":"play_podcasts"}
+{"sentence":"Поставь свежий эпизод интервью","intent":"play_podcasts"}
+{"sentence":"Подкасттың соңғы шығарылымын қос","intent":"play_podcasts"}
+{"sentence":"Ғылым туралы подкастты баста","intent":"play_podcasts"}
+{"sentence":"Сүйікті подкастымды тыңдауды жалғастыр","intent":"play_podcasts"}
+{"sentence":"Сұхбаттың жаңа эпизодын қой","intent":"play_podcasts"}
+{"sentence":"Play the latest podcast episode","intent":"play_podcasts"}
+{"sentence":"Start a podcast about science","intent":"play_podcasts"}
+{"sentence":"Resume my favorite podcast","intent":"play_podcasts"}
+{"sentence":"Put on the new interview episode","intent":"play_podcasts"}
+{"sentence":"Включи радио «Европа Плюс»","intent":"play_radio"}
+{"sentence":"Поставь местное новостное радио","intent":"play_radio"}
+{"sentence":"Запусти джазовую радиостанцию","intent":"play_radio"}
+{"sentence":"Воспроизведи прямой эфир радио","intent":"play_radio"}
+{"sentence":"«Еуропа Плюс» радиосын қос","intent":"play_radio"}
+{"sentence":"Жергілікті жаңалықтар радиосын қой","intent":"play_radio"}
+{"sentence":"Джаз радиостанциясын қос","intent":"play_radio"}
+{"sentence":"Радионың тікелей эфирін ойнат","intent":"play_radio"}
+{"sentence":"Play Europa Plus radio","intent":"play_radio"}
+{"sentence":"Turn on the local news radio station","intent":"play_radio"}
+{"sentence":"Start a jazz radio station","intent":"play_radio"}
+{"sentence":"Play the radio broadcast live","intent":"play_radio"}
+{"sentence":"Пропусти этот эпизод подкаста","intent":"podcasts"}
+{"sentence":"Верни предыдущий выпуск","intent":"podcasts"}
+{"sentence":"Перейди к следующей серии подкаста","intent":"podcasts"}
+{"sentence":"Поставь прошлый эпизод вместо этого","intent":"podcasts"}
+{"sentence":"Осы эпизодты өткізіп жібер","intent":"podcasts"}
+{"sentence":"Алдыңғы шығарылымға қайт","intent":"podcasts"}
+{"sentence":"Подкасттың келесі бөліміне өт","intent":"podcasts"}
+{"sentence":"Мұның орнына өткен эпизодты қой","intent":"podcasts"}
+{"sentence":"Skip this podcast episode","intent":"podcasts"}
+{"sentence":"Go back to the previous episode","intent":"podcasts"}
+{"sentence":"Move to the next podcast installment","intent":"podcasts"}
+{"sentence":"Play the last episode instead of this one","intent":"podcasts"}
+{"sentence":"Напиши пост о сегодняшней прогулке","intent":"post"}
+{"sentence":"Размести сообщение «Мы открылись»","intent":"post"}
+{"sentence":"Выложи мой текст в соцсеть","intent":"post"}
+{"sentence":"Опубликуй твит о поездке","intent":"post"}
+{"sentence":"Бүгінгі серуен туралы пост жаз","intent":"post"}
+{"sentence":"«Біз ашылдық» деген хабарды жарияла","intent":"post"}
+{"sentence":"Мәтінімді әлеуметтік желіге шығар","intent":"post"}
+{"sentence":"Сапар туралы твит жарияла","intent":"post"}
+{"sentence":"Write a post about today's walk","intent":"post"}
+{"sentence":"Post the message We are open","intent":"post"}
+{"sentence":"Share my text on social media","intent":"post"}
+{"sentence":"Publish a tweet about my trip","intent":"post"}
+{"sentence":"Во сколько тенге обойдутся пятьдесят евро?","intent":"qa_currency"}
+{"sentence":"Сколько рублей получится из ста юаней?","intent":"qa_currency"}
+{"sentence":"Пересчитай тысячу тенге в доллары","intent":"qa_currency"}
+{"sentence":"Сколько стоит британский фунт в евро?","intent":"qa_currency"}
+{"sentence":"Елу еуро қанша теңге болады?","intent":"qa_currency"}
+{"sentence":"Жүз юань қанша рубльге тең?","intent":"qa_currency"}
+{"sentence":"Мың теңгені долларға айналдыр","intent":"qa_currency"}
+{"sentence":"Британ фунты қанша еуро тұрады?","intent":"qa_currency"}
+{"sentence":"How many tenge would fifty euros buy?","intent":"qa_currency"}
+{"sentence":"How many rubles is one hundred yuan?","intent":"qa_currency"}
+{"sentence":"Convert one thousand tenge to dollars","intent":"qa_currency"}
+{"sentence":"How many euros is a British pound worth?","intent":"qa_currency"}
+{"sentence":"Что означает слово «эмпатия»?","intent":"qa_definition"}
+{"sentence":"Дай определение алгоритма","intent":"qa_definition"}
+{"sentence":"Что такое фотосинтез?","intent":"qa_definition"}
+{"sentence":"Как определяется слово «метафора»?","intent":"qa_definition"}
+{"sentence":"«Эмпатия» сөзі нені білдіреді?","intent":"qa_definition"}
+{"sentence":"Алгоритмге анықтама бер","intent":"qa_definition"}
+{"sentence":"Фотосинтез деген не?","intent":"qa_definition"}
+{"sentence":"«Метафора» сөзі қалай түсіндіріледі?","intent":"qa_definition"}
+{"sentence":"What does empathy mean?","intent":"qa_definition"}
+{"sentence":"Give me the definition of an algorithm","intent":"qa_definition"}
+{"sentence":"What is photosynthesis?","intent":"qa_definition"}
+{"sentence":"Define the word metaphor","intent":"qa_definition"}
+{"sentence":"Какая река самая длинная в Африке?","intent":"qa_factoid"}
+{"sentence":"Когда родился Альберт Эйнштейн?","intent":"qa_factoid"}
+{"sentence":"Сколько планет в Солнечной системе?","intent":"qa_factoid"}
+{"sentence":"В какой стране находится Мачу-Пикчу?","intent":"qa_factoid"}
+{"sentence":"Африкадағы ең ұзын өзен қайсы?","intent":"qa_factoid"}
+{"sentence":"Альберт Эйнштейн қашан туған?","intent":"qa_factoid"}
+{"sentence":"Күн жүйесінде неше ғаламшар бар?","intent":"qa_factoid"}
+{"sentence":"Мачу-Пикчу қай елде орналасқан?","intent":"qa_factoid"}
+{"sentence":"What is the longest river in Africa?","intent":"qa_factoid"}
+{"sentence":"When was Albert Einstein born?","intent":"qa_factoid"}
+{"sentence":"How many planets are in the Solar System?","intent":"qa_factoid"}
+{"sentence":"Which country is Machu Picchu in?","intent":"qa_factoid"}
+{"sentence":"Сколько будет двадцать три плюс сорок семь?","intent":"qa_maths"}
+{"sentence":"Чему равен квадрат девяти?","intent":"qa_maths"}
+{"sentence":"Раздели сто двадцать на шесть","intent":"qa_maths"}
+{"sentence":"Сколько будет семь умножить на восемь?","intent":"qa_maths"}
+{"sentence":"Жиырма үшке қырық жетіні қосқанда қанша болады?","intent":"qa_maths"}
+{"sentence":"Тоғыздың квадраты нешеге тең?","intent":"qa_maths"}
+{"sentence":"Жүз жиырманы алтыға бөл","intent":"qa_maths"}
+{"sentence":"Жетіні сегізге көбейтсең қанша шығады?","intent":"qa_maths"}
+{"sentence":"What is twenty-three plus forty-seven?","intent":"qa_maths"}
+{"sentence":"What is nine squared?","intent":"qa_maths"}
+{"sentence":"Divide one hundred and twenty by six","intent":"qa_maths"}
+{"sentence":"What is seven times eight?","intent":"qa_maths"}
+{"sentence":"Покажи котировки Tesla за сегодня","intent":"qa_stock"}
+{"sentence":"На сколько выросли акции Microsoft?","intent":"qa_stock"}
+{"sentence":"Как закрылись акции Nvidia вчера?","intent":"qa_stock"}
+{"sentence":"Сколько стоит одна акция Kaspi?","intent":"qa_stock"}
+{"sentence":"Tesla акцияларының бүгінгі бағасын көрсет","intent":"qa_stock"}
+{"sentence":"Microsoft акциялары қаншаға өсті?","intent":"qa_stock"}
+{"sentence":"Nvidia акциялары кеше қандай бағамен жабылды?","intent":"qa_stock"}
+{"sentence":"Kaspi акциясының біреуі қанша тұрады?","intent":"qa_stock"}
+{"sentence":"Show today's Tesla stock quote","intent":"qa_stock"}
+{"sentence":"How much have Microsoft shares risen?","intent":"qa_stock"}
+{"sentence":"At what price did Nvidia shares close yesterday?","intent":"qa_stock"}
+{"sentence":"How much is one Kaspi share?","intent":"qa_stock"}
+{"sentence":"Какая погода сегодня?","intent":"query"}
+{"sentence":"Что у меня в расписании?","intent":"query"}
+{"sentence":"Покажи непрочитанные письма","intent":"query"}
+{"sentence":"Есть ли дела на завтра?","intent":"query"}
+{"sentence":"Бүгін ауа райы қандай?","intent":"query"}
+{"sentence":"Жоспарымда не бар?","intent":"query"}
+{"sentence":"Оқылмаған хаттарды көрсет","intent":"query"}
+{"sentence":"Ертеңге жоспарланған іс бар ма?","intent":"query"}
+{"sentence":"What is the weather today?","intent":"query"}
+{"sentence":"What is on my schedule?","intent":"query"}
+{"sentence":"Show my unread emails","intent":"query"}
+{"sentence":"Do I have anything planned for tomorrow?","intent":"query"}
+{"sentence":"Какой у тебя любимый цвет?","intent":"quirky"}
+{"sentence":"Поболтай со мной немного","intent":"quirky"}
+{"sentence":"О чём ты сейчас думаешь?","intent":"quirky"}
+{"sentence":"Мне скучно, поговорим?","intent":"quirky"}
+{"sentence":"Сенің сүйікті түсің қандай?","intent":"quirky"}
+{"sentence":"Менімен біраз әңгімелесші","intent":"quirky"}
+{"sentence":"Қазір не туралы ойлап отырсың?","intent":"quirky"}
+{"sentence":"Ішім пысты, сөйлесеміз бе?","intent":"quirky"}
+{"sentence":"What is your favorite color?","intent":"quirky"}
+{"sentence":"Chat with me for a while","intent":"quirky"}
+{"sentence":"What are you thinking about now?","intent":"quirky"}
+{"sentence":"I am bored, can we talk?","intent":"quirky"}
+{"sentence":"Включи радио","intent":"radio"}
+{"sentence":"Поставь любую радиостанцию","intent":"radio"}
+{"sentence":"Переключи на FM","intent":"radio"}
+{"sentence":"Запусти радиоприёмник","intent":"radio"}
+{"sentence":"Радионы қосшы","intent":"radio"}
+{"sentence":"Кез келген радиостанцияны қой","intent":"radio"}
+{"sentence":"FM толқынына ауыс","intent":"radio"}
+{"sentence":"Радиоқабылдағышты іске қос","intent":"radio"}
+{"sentence":"Turn on the radio","intent":"radio"}
+{"sentence":"Play any radio station","intent":"radio"}
+{"sentence":"Switch to FM radio","intent":"radio"}
+{"sentence":"Start the radio receiver","intent":"radio"}
+{"sentence":"Что интересного будет в городе на выходных?","intent":"recommendation_events"}
+{"sentence":"Посоветуй концерт на вечер","intent":"recommendation_events"}
+{"sentence":"Найди семейное мероприятие на субботу","intent":"recommendation_events"}
+{"sentence":"Куда сходить сегодня после работы?","intent":"recommendation_events"}
+{"sentence":"Демалыс күндері қалада қандай қызық іс-шара бар?","intent":"recommendation_events"}
+{"sentence":"Кешке баратын концерт ұсыншы","intent":"recommendation_events"}
+{"sentence":"Сенбіге отбасылық іс-шара тап","intent":"recommendation_events"}
+{"sentence":"Бүгін жұмыстан кейін қайда баруға болады?","intent":"recommendation_events"}
+{"sentence":"What interesting events are happening this weekend?","intent":"recommendation_events"}
+{"sentence":"Recommend a concert for tonight","intent":"recommendation_events"}
+{"sentence":"Find a family event for Saturday","intent":"recommendation_events"}
+{"sentence":"Where can I go after work today?","intent":"recommendation_events"}
+{"sentence":"Посоветуй хорошее кафе поблизости","intent":"recommendation_locations"}
+{"sentence":"Найди ближайший книжный магазин","intent":"recommendation_locations"}
+{"sentence":"Подскажи место для ужина в центре","intent":"recommendation_locations"}
+{"sentence":"Какой торговый центр здесь удобнее?","intent":"recommendation_locations"}
+{"sentence":"Жақын жерден жақсы кафе ұсыншы","intent":"recommendation_locations"}
+{"sentence":"Ең жақын кітап дүкенін тап","intent":"recommendation_locations"}
+{"sentence":"Орталықта кешкі ас ішетін жер ұсын","intent":"recommendation_locations"}
+{"sentence":"Мұнда қай сауда орталығына бару ыңғайлы?","intent":"recommendation_locations"}
+{"sentence":"Recommend a good cafe nearby","intent":"recommendation_locations"}
+{"sentence":"Find the nearest bookshop","intent":"recommendation_locations"}
+{"sentence":"Suggest a place for dinner downtown","intent":"recommendation_locations"}
+{"sentence":"Which shopping mall is convenient from here?","intent":"recommendation_locations"}
+{"sentence":"Какой фильм посоветуешь на вечер?","intent":"recommendation_movies"}
+{"sentence":"Что стоит посмотреть в кино на этой неделе?","intent":"recommendation_movies"}
+{"sentence":"Какой семейный фильм сейчас идёт?","intent":"recommendation_movies"}
+{"sentence":"Выбери интересный фильм по отзывам","intent":"recommendation_movies"}
+{"sentence":"Кешке қандай фильм ұсынасың?","intent":"recommendation_movies"}
+{"sentence":"Осы аптада кинотеатрда не көрген дұрыс?","intent":"recommendation_movies"}
+{"sentence":"Қазір қандай отбасылық фильм көрсетіліп жатыр?","intent":"recommendation_movies"}
+{"sentence":"Пікірлерге қарап қызық фильм таңда","intent":"recommendation_movies"}
+{"sentence":"What film would you recommend for tonight?","intent":"recommendation_movies"}
+{"sentence":"What is worth seeing at the cinema this week?","intent":"recommendation_movies"}
+{"sentence":"Which family film is playing now?","intent":"recommendation_movies"}
+{"sentence":"Choose a movie with good reviews","intent":"recommendation_movies"}
+{"sentence":"Удали следующую встречу","intent":"remove"}
+{"sentence":"Убери молоко из списка","intent":"remove"}
+{"sentence":"Сотри ближайшее событие","intent":"remove"}
+{"sentence":"Удалить этот пункт из списка","intent":"remove"}
+{"sentence":"Келесі кездесуді өшір","intent":"remove"}
+{"sentence":"Тізімнен сүтті алып таста","intent":"remove"}
+{"sentence":"Ең жақын іс-шараны жой","intent":"remove"}
+{"sentence":"Осы тармақты тізімнен өшір","intent":"remove"}
+{"sentence":"Delete my next meeting","intent":"remove"}
+{"sentence":"Remove milk from the list","intent":"remove"}
+{"sentence":"Erase the upcoming event","intent":"remove"}
+{"sentence":"Delete this item from the list","intent":"remove"}
+{"sentence":"Отправь ответ на письмо Даны","intent":"sendemail"}
+{"sentence":"Ответь на последнее сообщение по почте","intent":"sendemail"}
+{"sentence":"Перешли Арману письмо с отчётом","intent":"sendemail"}
+{"sentence":"Отправь имейл с темой «встреча»","intent":"sendemail"}
+{"sentence":"Дананың хатына жауап жібер","intent":"sendemail"}
+{"sentence":"Поштадағы соңғы хабарға жауап бер","intent":"sendemail"}
+{"sentence":"Арманға есеп жазылған хатты жібер","intent":"sendemail"}
+{"sentence":"«Кездесу» тақырыбымен электрондық хат жолда","intent":"sendemail"}
+{"sentence":"Send a reply to Dana's email","intent":"sendemail"}
+{"sentence":"Reply to the last message in my inbox","intent":"sendemail"}
+{"sentence":"Forward the report email to Arman","intent":"sendemail"}
+{"sentence":"Send an email with the subject meeting","intent":"sendemail"}
+{"sentence":"Добавь встречу в календарь","intent":"set"}
+{"sentence":"Запланируй звонок на завтра","intent":"set"}
+{"sentence":"Поставь будильник на утро","intent":"set"}
+{"sentence":"Отметь день рождения в расписании","intent":"set"}
+{"sentence":"Күнтізбеге кездесу қос","intent":"set"}
+{"sentence":"Ертеңге қоңырау жоспарла","intent":"set"}
+{"sentence":"Таңертеңге оятқыш қой","intent":"set"}
+{"sentence":"Жоспарда туған күнді белгіле","intent":"set"}
+{"sentence":"Add a meeting to my calendar","intent":"set"}
+{"sentence":"Schedule a call for tomorrow","intent":"set"}
+{"sentence":"Set an alarm for the morning","intent":"set"}
+{"sentence":"Mark a birthday on my schedule","intent":"set"}
+{"sentence":"Напиши твит о концерте","intent":"social_post"}
+{"sentence":"Размести фото с подписью в соцсети","intent":"social_post"}
+{"sentence":"Выложи пост с благодарностью команде","intent":"social_post"}
+{"sentence":"Отправь жалобу бренду через твиттер","intent":"social_post"}
+{"sentence":"Концерт туралы твит жаз","intent":"social_post"}
+{"sentence":"Әлеуметтік желіге жазуы бар фото сал","intent":"social_post"}
+{"sentence":"Топқа алғыс айтатын пост шығар","intent":"social_post"}
+{"sentence":"Твиттер арқылы брендке шағым жібер","intent":"social_post"}
+{"sentence":"Write a tweet about the concert","intent":"social_post"}
+{"sentence":"Post a photo with a caption on social media","intent":"social_post"}
+{"sentence":"Share a post thanking the team","intent":"social_post"}
+{"sentence":"Send a complaint to the brand on Twitter","intent":"social_post"}
+{"sentence":"Что сейчас в тренде в твиттере?","intent":"social_query"}
+{"sentence":"Покажи новые комментарии к моему посту","intent":"social_query"}
+{"sentence":"Есть ли у меня уведомления в фейсбуке?","intent":"social_query"}
+{"sentence":"Проверь сообщения в соцсети","intent":"social_query"}
+{"sentence":"Твиттерде қазір не трендте?","intent":"social_query"}
+{"sentence":"Постыма жазылған жаңа пікірлерді көрсет","intent":"social_query"}
+{"sentence":"Фейсбукте маған хабарландыру бар ма?","intent":"social_query"}
+{"sentence":"Әлеуметтік желідегі хабарламаларды тексер","intent":"social_query"}
+{"sentence":"What is trending on Twitter right now?","intent":"social_query"}
+{"sentence":"Show new comments on my post","intent":"social_query"}
+{"sentence":"Do I have Facebook notifications?","intent":"social_query"}
+{"sentence":"Check my social media messages","intent":"social_query"}
+{"sentence":"Закажи пиццу с сыром на дом","intent":"takeaway_order"}
+{"sentence":"Закажи суши к семи вечера","intent":"takeaway_order"}
+{"sentence":"Мне нужен заказ лапши с собой","intent":"takeaway_order"}
+{"sentence":"Добавь салат к заказу еды","intent":"takeaway_order"}
+{"sentence":"Үйге ірімшікті пиццаға тапсырыс бер","intent":"takeaway_order"}
+{"sentence":"Кешкі жетіге сушиге тапсырыс бер","intent":"takeaway_order"}
+{"sentence":"Алып кетуге кеспе тапсырыс керек","intent":"takeaway_order"}
+{"sentence":"Тамақ тапсырысына салат қос","intent":"takeaway_order"}
+{"sentence":"Order a cheese pizza for delivery","intent":"takeaway_order"}
+{"sentence":"Order sushi for seven this evening","intent":"takeaway_order"}
+{"sentence":"Get me noodles to take away","intent":"takeaway_order"}
+{"sentence":"Add a salad to my food order","intent":"takeaway_order"}
+{"sentence":"Когда привезут мой заказ еды?","intent":"takeaway_query"}
+{"sentence":"Есть ли у этого ресторана доставка?","intent":"takeaway_query"}
+{"sentence":"Покажи статус заказа пиццы","intent":"takeaway_query"}
+{"sentence":"Сколько стоит доставка суши?","intent":"takeaway_query"}
+{"sentence":"Тамақ тапсырысым қашан келеді?","intent":"takeaway_query"}
+{"sentence":"Бұл мейрамханада жеткізу бар ма?","intent":"takeaway_query"}
+{"sentence":"Пицца тапсырысының күйін көрсет","intent":"takeaway_query"}
+{"sentence":"Суши жеткізу қанша тұрады?","intent":"takeaway_query"}
+{"sentence":"When will my food order arrive?","intent":"takeaway_query"}
+{"sentence":"Does this restaurant offer delivery?","intent":"takeaway_query"}
+{"sentence":"Show the status of my pizza order","intent":"takeaway_query"}
+{"sentence":"How much does sushi delivery cost?","intent":"takeaway_query"}
+{"sentence":"Какие сейчас пробки?","intent":"traffic"}
+{"sentence":"Как обстоят дела с движением?","intent":"traffic"}
+{"sentence":"Покажи дорожную обстановку","intent":"traffic"}
+{"sentence":"На улицах сейчас заторы?","intent":"traffic"}
+{"sentence":"Қазір кептеліс бар ма?","intent":"traffic"}
+{"sentence":"Жолдағы жағдай қалай?","intent":"traffic"}
+{"sentence":"Жол қозғалысының жағдайын көрсет","intent":"traffic"}
+{"sentence":"Қазір көшелерде кептеліс бар ма?","intent":"traffic"}
+{"sentence":"Are there traffic jams right now?","intent":"traffic"}
+{"sentence":"How is traffic moving?","intent":"traffic"}
+{"sentence":"Show the current road conditions","intent":"traffic"}
+{"sentence":"Is there congestion on the streets?","intent":"traffic"}
+{"sentence":"Во сколько отправляется следующий поезд?","intent":"transport_query"}
+{"sentence":"Покажи расписание автобуса номер десять","intent":"transport_query"}
+{"sentence":"Сколько времени ехать до вокзала?","intent":"transport_query"}
+{"sentence":"На каком маршруте добраться до центра?","intent":"transport_query"}
+{"sentence":"Келесі пойыз сағат нешеде жүреді?","intent":"transport_query"}
+{"sentence":"Оныншы автобустың кестесін көрсет","intent":"transport_query"}
+{"sentence":"Вокзалға дейін қанша уақыт жүремін?","intent":"transport_query"}
+{"sentence":"Орталыққа қай бағытпен баруға болады?","intent":"transport_query"}
+{"sentence":"When does the next train leave?","intent":"transport_query"}
+{"sentence":"Show the schedule for bus number ten","intent":"transport_query"}
+{"sentence":"How long does it take to reach the station?","intent":"transport_query"}
+{"sentence":"Which route will take me downtown?","intent":"transport_query"}
+{"sentence":"Закажи такси к моему дому","intent":"transport_taxi"}
+{"sentence":"Вызови машину до аэропорта","intent":"transport_taxi"}
+{"sentence":"Нужна поездка на такси через десять минут","intent":"transport_taxi"}
+{"sentence":"Оформи такси до офиса","intent":"transport_taxi"}
+{"sentence":"Үйіме такси шақыр","intent":"transport_taxi"}
+{"sentence":"Әуежайға дейін көлік шақыр","intent":"transport_taxi"}
+{"sentence":"Он минуттан кейін такси керек","intent":"transport_taxi"}
+{"sentence":"Кеңсеге дейін такси рәсімде","intent":"transport_taxi"}
+{"sentence":"Book a taxi to my home","intent":"transport_taxi"}
+{"sentence":"Call a car to take me to the airport","intent":"transport_taxi"}
+{"sentence":"I need a taxi in ten minutes","intent":"transport_taxi"}
+{"sentence":"Arrange a cab to the office","intent":"transport_taxi"}
+{"sentence":"Купи билет на поезд до Астаны","intent":"transport_ticket"}
+{"sentence":"Забронируй автобусный билет на пятницу","intent":"transport_ticket"}
+{"sentence":"Оформи билет на вечерний рейс","intent":"transport_ticket"}
+{"sentence":"Закажи билет на поезд на завтра","intent":"transport_ticket"}
+{"sentence":"Астанаға пойыз билетін сатып ал","intent":"transport_ticket"}
+{"sentence":"Жұмаға автобус билетін бронда","intent":"transport_ticket"}
+{"sentence":"Кешкі рейске билет рәсімде","intent":"transport_ticket"}
+{"sentence":"Ертеңгі пойызға билет тапсырыс бер","intent":"transport_ticket"}
+{"sentence":"Buy a train ticket to Astana","intent":"transport_ticket"}
+{"sentence":"Book a bus ticket for Friday","intent":"transport_ticket"}
+{"sentence":"Get me a ticket for the evening flight","intent":"transport_ticket"}
+{"sentence":"Order a ticket for tomorrow's train","intent":"transport_ticket"}
+{"sentence":"Есть ли пробки по дороге в аэропорт?","intent":"transport_traffic"}
+{"sentence":"Какое движение на проспекте Абая?","intent":"transport_traffic"}
+{"sentence":"Сколько машин сейчас на моей дороге?","intent":"transport_traffic"}
+{"sentence":"Оцени пробки на маршруте до работы","intent":"transport_traffic"}
+{"sentence":"Әуежайға баратын жолда кептеліс бар ма?","intent":"transport_traffic"}
+{"sentence":"Абай даңғылындағы қозғалыс қалай?","intent":"transport_traffic"}
+{"sentence":"Менің жолымда қазір көлік көп пе?","intent":"transport_traffic"}
+{"sentence":"Жұмысқа баратын бағыттағы кептелісті бағала","intent":"transport_traffic"}
+{"sentence":"Is there traffic on the way to the airport?","intent":"transport_traffic"}
+{"sentence":"How is traffic on Abay Avenue?","intent":"transport_traffic"}
+{"sentence":"Is my route busy with cars right now?","intent":"transport_traffic"}
+{"sentence":"Estimate traffic on my commute to work","intent":"transport_traffic"}
+{"sentence":"Какая сегодня погода в Алматы?","intent":"weather_query"}
+{"sentence":"Будет ли завтра дождь?","intent":"weather_query"}
+{"sentence":"Сколько градусов сейчас на улице?","intent":"weather_query"}
+{"sentence":"Нужен ли зонт вечером?","intent":"weather_query"}
+{"sentence":"Бүгін Алматыда ауа райы қандай?","intent":"weather_query"}
+{"sentence":"Ертең жаңбыр жауа ма?","intent":"weather_query"}
+{"sentence":"Қазір сыртта ауа температурасы қанша?","intent":"weather_query"}
+{"sentence":"Кешке қолшатыр керек пе?","intent":"weather_query"}
+{"sentence":"What is the weather like in Almaty today?","intent":"weather_query"}
+{"sentence":"Will it rain tomorrow?","intent":"weather_query"}
+{"sentence":"What is the temperature outside now?","intent":"weather_query"}
+{"sentence":"Will I need an umbrella this evening?","intent":"weather_query"}
+{"sentence":"Выключи розетку WeMo","intent":"wemo_off"}
+{"sentence":"Обесточь розетку для телевизора","intent":"wemo_off"}
+{"sentence":"Погаси питание на смарт-розетке","intent":"wemo_off"}
+{"sentence":"Выруби подключённую розетку","intent":"wemo_off"}
+{"sentence":"WeMo розеткасын өшір","intent":"wemo_off"}
+{"sentence":"Теледидар розеткасының қуатын өшір","intent":"wemo_off"}
+{"sentence":"Ақылды розеткадағы қуатты сөндір","intent":"wemo_off"}
+{"sentence":"Қосылған розетканы өшір","intent":"wemo_off"}
+{"sentence":"Turn off the WeMo outlet","intent":"wemo_off"}
+{"sentence":"Cut power to the television socket","intent":"wemo_off"}
+{"sentence":"Switch off the smart outlet","intent":"wemo_off"}
+{"sentence":"Turn off the connected plug","intent":"wemo_off"}
