@@ -58,18 +58,6 @@
 {"sentence":"Silence the speaker","intent":"audio_volume_mute"}
 {"sentence":"Turn off the audio until this evening","intent":"audio_volume_mute"}
 {"sentence":"Make sure no sound comes out","intent":"audio_volume_mute"}
-{"sentence":"Измени уровень громкости","intent":"audio_volume_other"}
-{"sentence":"Отрегулируй звук в комнате","intent":"audio_volume_other"}
-{"sentence":"Установи громкость на сорок процентов","intent":"audio_volume_other"}
-{"sentence":"Верни прежний уровень звука","intent":"audio_volume_other"}
-{"sentence":"Дыбыс деңгейін өзгертіп берші","intent":"audio_volume_other"}
-{"sentence":"Бөлмедегі дыбысты ретте","intent":"audio_volume_other"}
-{"sentence":"Дыбысты қырық пайызға қой","intent":"audio_volume_other"}
-{"sentence":"Дыбыстың бұрынғы деңгейін қайтар","intent":"audio_volume_other"}
-{"sentence":"Change the volume level","intent":"audio_volume_other"}
-{"sentence":"Adjust the room audio","intent":"audio_volume_other"}
-{"sentence":"Set volume to forty percent","intent":"audio_volume_other"}
-{"sentence":"Restore the previous volume level","intent":"audio_volume_other"}
 {"sentence":"Прибавь громкость на два деления","intent":"audio_volume_up"}
 {"sentence":"Подними звук до восьмидесяти процентов","intent":"audio_volume_up"}
 {"sentence":"Усиль звук в наушниках","intent":"audio_volume_up"}
@@ -118,30 +106,6 @@
 {"sentence":"Put my doctor's visit on the calendar for tomorrow at ten","intent":"calendar_set"}
 {"sentence":"Create a dinner event for Saturday evening","intent":"calendar_set"}
 {"sentence":"Schedule a meeting for Monday at nine","intent":"calendar_set"}
-{"sentence":"Запусти робот-пылесос в гостиной","intent":"cleaning"}
-{"sentence":"Пусть пылесос уберёт пол на кухне","intent":"cleaning"}
-{"sentence":"Начни уборку квартиры роботом","intent":"cleaning"}
-{"sentence":"Пропылесось комнату прямо сейчас","intent":"cleaning"}
-{"sentence":"Қонақ бөлмеде робот шаңсорғышты іске қос","intent":"cleaning"}
-{"sentence":"Асүйдің еденін шаңсорғыш тазаласын","intent":"cleaning"}
-{"sentence":"Пәтерді роботпен жинауды баста","intent":"cleaning"}
-{"sentence":"Бөлмені қазір шаңсорғышпен тазала","intent":"cleaning"}
-{"sentence":"Start the robot vacuum in the living room","intent":"cleaning"}
-{"sentence":"Have the vacuum clean the kitchen floor","intent":"cleaning"}
-{"sentence":"Begin cleaning the apartment with the robot","intent":"cleaning"}
-{"sentence":"Vacuum the bedroom right now","intent":"cleaning"}
-{"sentence":"Приготовь эспрессо сейчас","intent":"coffee"}
-{"sentence":"Хочу горячий кофе к завтраку","intent":"coffee"}
-{"sentence":"Свари мне капучино","intent":"coffee"}
-{"sentence":"Налей свежего кофе","intent":"coffee"}
-{"sentence":"Қазір эспрессо жасап бер","intent":"coffee"}
-{"sentence":"Таңғы асқа ыстық кофе керек","intent":"coffee"}
-{"sentence":"Маған капучино әзірле","intent":"coffee"}
-{"sentence":"Жаңа қайнатылған кофе құйшы","intent":"coffee"}
-{"sentence":"Prepare an espresso now","intent":"coffee"}
-{"sentence":"I want hot coffee with breakfast","intent":"coffee"}
-{"sentence":"Make me a cappuccino","intent":"coffee"}
-{"sentence":"Brew some fresh coffee","intent":"coffee"}
 {"sentence":"Можно ли заменить сливки молоком в супе?","intent":"cooking_query"}
 {"sentence":"Как понять, что курица уже готова?","intent":"cooking_query"}
 {"sentence":"Что приготовить из картошки и яиц?","intent":"cooking_query"}
@@ -166,30 +130,6 @@
 {"sentence":"Give me step-by-step instructions for pilaf","intent":"cooking_recipe"}
 {"sentence":"How do I make vegetable lasagna?","intent":"cooking_recipe"}
 {"sentence":"Show me a sugar-free cookie recipe","intent":"cooking_recipe"}
-{"sentence":"Создай новый список покупок","intent":"createoradd"}
-{"sentence":"Открой новый список задач","intent":"createoradd"}
-{"sentence":"Внеси зубную пасту в список покупок","intent":"createoradd"}
-{"sentence":"Заведи отдельный список для поездки","intent":"createoradd"}
-{"sentence":"Жаңа сатып алу тізімін жаса","intent":"createoradd"}
-{"sentence":"Жаңа тапсырмалар тізімін аш","intent":"createoradd"}
-{"sentence":"Сатып алу тізіміне тіс пастасын енгіз","intent":"createoradd"}
-{"sentence":"Сапарға бөлек тізім құршы","intent":"createoradd"}
-{"sentence":"Create a new shopping list","intent":"createoradd"}
-{"sentence":"Start a new task list","intent":"createoradd"}
-{"sentence":"Put toothpaste on my shopping list","intent":"createoradd"}
-{"sentence":"Make a separate packing list","intent":"createoradd"}
-{"sentence":"Сколько тенге дают за один доллар?","intent":"currency"}
-{"sentence":"Переведи сто долларов в тенге","intent":"currency"}
-{"sentence":"Сколько юаней в тысяче тенге?","intent":"currency"}
-{"sentence":"Покажи курс фунта к евро","intent":"currency"}
-{"sentence":"Бір долларға қанша теңге береді?","intent":"currency"}
-{"sentence":"Жүз долларды теңгеге айналдыр","intent":"currency"}
-{"sentence":"Мың теңге қанша юань болады?","intent":"currency"}
-{"sentence":"Фунттың еуроға бағамын көрсет","intent":"currency"}
-{"sentence":"How many tenge do I get for one dollar?","intent":"currency"}
-{"sentence":"Convert one hundred dollars to tenge","intent":"currency"}
-{"sentence":"How many yuan is one thousand tenge?","intent":"currency"}
-{"sentence":"Show the pound to euro rate","intent":"currency"}
 {"sentence":"Если в Алматы полдень, сколько времени в Лондоне?","intent":"datetime_convert"}
 {"sentence":"Переведи девять вечера по Москве во время Астаны","intent":"datetime_convert"}
 {"sentence":"Сколько будет в Токио, когда здесь восемь утра?","intent":"datetime_convert"}
@@ -262,30 +202,6 @@
 {"sentence":"Write Arman that the meeting was moved","intent":"email_sendemail"}
 {"sentence":"Reply to the latest email from my colleague","intent":"email_sendemail"}
 {"sentence":"Email the photos to my mother","intent":"email_sendemail"}
-{"sentence":"Какая столица Австралии?","intent":"factoid"}
-{"sentence":"Сколько материков на Земле?","intent":"factoid"}
-{"sentence":"Кто написал «Войну и мир»?","intent":"factoid"}
-{"sentence":"Где находится гора Эверест?","intent":"factoid"}
-{"sentence":"Аустралияның астанасы қай қала?","intent":"factoid"}
-{"sentence":"Жер бетінде неше материк бар?","intent":"factoid"}
-{"sentence":"«Соғыс және бейбітшілік» романын кім жазды?","intent":"factoid"}
-{"sentence":"Эверест тауы қай жерде орналасқан?","intent":"factoid"}
-{"sentence":"What is the capital of Australia?","intent":"factoid"}
-{"sentence":"How many continents are there?","intent":"factoid"}
-{"sentence":"Who wrote War and Peace?","intent":"factoid"}
-{"sentence":"Where is Mount Everest located?","intent":"factoid"}
-{"sentence":"Открой шахматы и начни игру","intent":"game"}
-{"sentence":"Давай сыграем в шашки","intent":"game"}
-{"sentence":"Открой список доступных игр","intent":"game"}
-{"sentence":"Начни новую партию в скрэббл","intent":"game"}
-{"sentence":"Шахматты ашып, ойынды баста","intent":"game"}
-{"sentence":"Кел, дойбы ойнайық","intent":"game"}
-{"sentence":"Қолжетімді ойындардың тізімін аш","intent":"game"}
-{"sentence":"Скрабблдың жаңа ойынын баста","intent":"game"}
-{"sentence":"Open chess and start a game","intent":"game"}
-{"sentence":"Let us play checkers","intent":"game"}
-{"sentence":"Show me the available games","intent":"game"}
-{"sentence":"Start a new Scrabble match","intent":"game"}
 {"sentence":"Привет, как дела?","intent":"general_greet"}
 {"sentence":"Доброе утро, как поживаешь?","intent":"general_greet"}
 {"sentence":"Здравствуй, рад тебя слышать","intent":"general_greet"}
@@ -310,66 +226,6 @@
 {"sentence":"Could you make a joke, please?","intent":"general_joke"}
 {"sentence":"I would like to hear a short joke","intent":"general_joke"}
 {"sentence":"Cheer me up with a funny story","intent":"general_joke"}
-{"sentence":"Если бы ты был котом, как бы тебя звали?","intent":"general_quirky"}
-{"sentence":"Ты когда-нибудь скучаешь по разговорам?","intent":"general_quirky"}
-{"sentence":"Можно считать тебя моим другом?","intent":"general_quirky"}
-{"sentence":"Как думаешь, роботы любят выходные?","intent":"general_quirky"}
-{"sentence":"Егер сен мысық болсаң, атың кім болар еді?","intent":"general_quirky"}
-{"sentence":"Сөйлесуді сағынасың ба?","intent":"general_quirky"}
-{"sentence":"Сені досым деп санасам бола ма?","intent":"general_quirky"}
-{"sentence":"Роботтар демалыс күндерін ұната ма?","intent":"general_quirky"}
-{"sentence":"If you were a cat, what would your name be?","intent":"general_quirky"}
-{"sentence":"Do you ever miss having conversations?","intent":"general_quirky"}
-{"sentence":"Can I consider you my friend?","intent":"general_quirky"}
-{"sentence":"Do robots enjoy weekends?","intent":"general_quirky"}
-{"sentence":"Привет, Олли","intent":"greet"}
-{"sentence":"Здравствуйте","intent":"greet"}
-{"sentence":"Добрый день","intent":"greet"}
-{"sentence":"Салют","intent":"greet"}
-{"sentence":"Сәлем, Олли","intent":"greet"}
-{"sentence":"Сәлеметсіз бе","intent":"greet"}
-{"sentence":"Қайырлы күн","intent":"greet"}
-{"sentence":"Армысың","intent":"greet"}
-{"sentence":"Hello, Olly","intent":"greet"}
-{"sentence":"Greetings","intent":"greet"}
-{"sentence":"Good afternoon","intent":"greet"}
-{"sentence":"Hey there","intent":"greet"}
-{"sentence":"Приглуши лампу в спальне","intent":"hue_lightdim"}
-{"sentence":"Убавь яркость ламп до тридцати процентов","intent":"hue_lightdim"}
-{"sentence":"Понизь освещение в коридоре","intent":"hue_lightdim"}
-{"sentence":"Слишком ярко, уменьши свет","intent":"hue_lightdim"}
-{"sentence":"Жатын бөлмедегі шамды бәсеңдет","intent":"hue_lightdim"}
-{"sentence":"Шамдардың жарықтығын отыз пайызға түсір","intent":"hue_lightdim"}
-{"sentence":"Дәліздегі жарықты азайт","intent":"hue_lightdim"}
-{"sentence":"Өте жарық екен, шамды бәсеңдет","intent":"hue_lightdim"}
-{"sentence":"Dim the bedroom lamp","intent":"hue_lightdim"}
-{"sentence":"Lower the lamps to thirty percent brightness","intent":"hue_lightdim"}
-{"sentence":"Reduce the hallway lighting","intent":"hue_lightdim"}
-{"sentence":"It is too bright, dim the lights","intent":"hue_lightdim"}
-{"sentence":"Погаси лампу на кухне","intent":"hue_lightoff"}
-{"sentence":"Выключи весь свет в спальне","intent":"hue_lightoff"}
-{"sentence":"Отключи свет в коридоре","intent":"hue_lightoff"}
-{"sentence":"Выруби освещение в ванной","intent":"hue_lightoff"}
-{"sentence":"Асүйдегі шамды сөндір","intent":"hue_lightoff"}
-{"sentence":"Жатын бөлмедегі барлық жарықты өшір","intent":"hue_lightoff"}
-{"sentence":"Дәліздегі жарықты сөндір","intent":"hue_lightoff"}
-{"sentence":"Жуынатын бөлмедегі жарықты өшір","intent":"hue_lightoff"}
-{"sentence":"Turn off the kitchen lamp","intent":"hue_lightoff"}
-{"sentence":"Switch off every light in the bedroom","intent":"hue_lightoff"}
-{"sentence":"Turn off the hallway lights","intent":"hue_lightoff"}
-{"sentence":"Switch off the bathroom lighting","intent":"hue_lightoff"}
-{"sentence":"Сделай лампу в спальне ярче","intent":"hue_lightup"}
-{"sentence":"Добавь яркости свету на кухне","intent":"hue_lightup"}
-{"sentence":"Освети комнату посильнее","intent":"hue_lightup"}
-{"sentence":"Прибавь света в коридоре","intent":"hue_lightup"}
-{"sentence":"Жатын бөлмедегі шамды жарығырақ қыл","intent":"hue_lightup"}
-{"sentence":"Асүйдегі жарықты күшейт","intent":"hue_lightup"}
-{"sentence":"Бөлмені жарығырақ ет","intent":"hue_lightup"}
-{"sentence":"Дәліздегі жарықты арттыр","intent":"hue_lightup"}
-{"sentence":"Make the bedroom lamp brighter","intent":"hue_lightup"}
-{"sentence":"Increase the kitchen light brightness","intent":"hue_lightup"}
-{"sentence":"Brighten up the room","intent":"hue_lightup"}
-{"sentence":"Turn up the hallway lights","intent":"hue_lightup"}
 {"sentence":"Включи умный пылесос на кухне","intent":"iot_cleaning"}
 {"sentence":"Отправь робот-пылесос убирать прихожую","intent":"iot_cleaning"}
 {"sentence":"Пусть робот-пылесос пройдётся по спальне","intent":"iot_cleaning"}
@@ -406,18 +262,6 @@
 {"sentence":"Set the lights to a warm yellow","intent":"iot_hue_lightchange"}
 {"sentence":"Switch the smart bulb to purple","intent":"iot_hue_lightchange"}
 {"sentence":"Make the lamps glow red","intent":"iot_hue_lightchange"}
-{"sentence":"Приглуши умный свет в гостиной","intent":"iot_hue_lightdim"}
-{"sentence":"Убавь яркость лампы Hue на двадцать процентов","intent":"iot_hue_lightdim"}
-{"sentence":"Понизь свет в ванной до минимума","intent":"iot_hue_lightdim"}
-{"sentence":"Уменьши яркость потолочного света","intent":"iot_hue_lightdim"}
-{"sentence":"Қонақ бөлмедегі ақылды жарықты бәсеңдет","intent":"iot_hue_lightdim"}
-{"sentence":"Hue шамының жарықтығын жиырма пайызға азайт","intent":"iot_hue_lightdim"}
-{"sentence":"Жуынатын бөлмедегі жарықты ең төменге түсір","intent":"iot_hue_lightdim"}
-{"sentence":"Төбедегі шамның жарықтығын азайт","intent":"iot_hue_lightdim"}
-{"sentence":"Dim the smart lights in the living room","intent":"iot_hue_lightdim"}
-{"sentence":"Lower the Hue bulb brightness by twenty percent","intent":"iot_hue_lightdim"}
-{"sentence":"Reduce the bathroom lights to minimum brightness","intent":"iot_hue_lightdim"}
-{"sentence":"Turn down the ceiling light brightness","intent":"iot_hue_lightdim"}
 {"sentence":"Погаси лампы Hue в спальне","intent":"iot_hue_lightoff"}
 {"sentence":"Отключи освещение на балконе","intent":"iot_hue_lightoff"}
 {"sentence":"Пусть умная лампа в коридоре погаснет","intent":"iot_hue_lightoff"}
@@ -442,18 +286,6 @@
 {"sentence":"Turn on all the bedroom Hue lights","intent":"iot_hue_lighton"}
 {"sentence":"Light up the living room","intent":"iot_hue_lighton"}
 {"sentence":"Switch on the ceiling lamp","intent":"iot_hue_lighton"}
-{"sentence":"Сделай умные лампы ярче","intent":"iot_hue_lightup"}
-{"sentence":"Повысь яркость света в гостиной","intent":"iot_hue_lightup"}
-{"sentence":"Увеличь яркость Hue до девяноста процентов","intent":"iot_hue_lightup"}
-{"sentence":"Подними яркость лампы в кабинете","intent":"iot_hue_lightup"}
-{"sentence":"Ақылды шамдарды жарығырақ қыл","intent":"iot_hue_lightup"}
-{"sentence":"Қонақ бөлмедегі жарықты күшейт","intent":"iot_hue_lightup"}
-{"sentence":"Hue жарықтығын тоқсан пайызға көтер","intent":"iot_hue_lightup"}
-{"sentence":"Жұмыс бөлмесіндегі шамды жарығырақ ет","intent":"iot_hue_lightup"}
-{"sentence":"Make the smart bulbs brighter","intent":"iot_hue_lightup"}
-{"sentence":"Increase the living room light brightness","intent":"iot_hue_lightup"}
-{"sentence":"Raise Hue brightness to ninety percent","intent":"iot_hue_lightup"}
-{"sentence":"Turn up the office lamp brightness","intent":"iot_hue_lightup"}
 {"sentence":"Выключи розетку WeMo на кухне","intent":"iot_wemo_off"}
 {"sentence":"Обесточь умный штекер у телевизора","intent":"iot_wemo_off"}
 {"sentence":"Пусть умная розетка для чайника выключится","intent":"iot_wemo_off"}
@@ -478,18 +310,6 @@
 {"sentence":"Supply power to the WeMo plug","intent":"iot_wemo_on"}
 {"sentence":"Activate the kettle's smart outlet","intent":"iot_wemo_on"}
 {"sentence":"Turn on the WeMo plug in the living room","intent":"iot_wemo_on"}
-{"sentence":"Расскажи анекдот","intent":"joke"}
-{"sentence":"Придумай короткую шутку","intent":"joke"}
-{"sentence":"Скажи что-нибудь смешное","intent":"joke"}
-{"sentence":"Подними настроение анекдотом","intent":"joke"}
-{"sentence":"Анекдот айтып берші","intent":"joke"}
-{"sentence":"Қысқа әзіл ойлап тап","intent":"joke"}
-{"sentence":"Бір күлкілі нәрсе айтшы","intent":"joke"}
-{"sentence":"Анекдотпен көңілімді көтер","intent":"joke"}
-{"sentence":"Tell me a joke","intent":"joke"}
-{"sentence":"Make up a short joke","intent":"joke"}
-{"sentence":"Say something funny","intent":"joke"}
-{"sentence":"Cheer me up with a joke","intent":"joke"}
 {"sentence":"Создай список для похода в магазин","intent":"lists_createoradd"}
 {"sentence":"Добавь яблоки в список покупок","intent":"lists_createoradd"}
 {"sentence":"Запиши «позвонить врачу» в список дел","intent":"lists_createoradd"}
@@ -526,42 +346,6 @@
 {"sentence":"Erase my entire travel packing list","intent":"lists_remove"}
 {"sentence":"Take bread off the grocery list","intent":"lists_remove"}
 {"sentence":"Delete the list called gift ideas","intent":"lists_remove"}
-{"sentence":"Включи джазовую музыку","intent":"music"}
-{"sentence":"Поставь что-нибудь из старого рока","intent":"music"}
-{"sentence":"Хочу послушать казахские песни","intent":"music"}
-{"sentence":"Запусти спокойную музыку для работы","intent":"music"}
-{"sentence":"Джаз музыкасын қосшы","intent":"music"}
-{"sentence":"Ескі роктан бірдеңе қой","intent":"music"}
-{"sentence":"Қазақ әндерін тыңдағым келеді","intent":"music"}
-{"sentence":"Жұмысқа жайлы музыка қос","intent":"music"}
-{"sentence":"Play some jazz music","intent":"music"}
-{"sentence":"Put on classic rock","intent":"music"}
-{"sentence":"I want to listen to Kazakh songs","intent":"music"}
-{"sentence":"Start calm music for working","intent":"music"}
-{"sentence":"Мне не нравится эта песня","intent":"music_dislikeness"}
-{"sentence":"Пометь этот трек как нелюбимый","intent":"music_dislikeness"}
-{"sentence":"Больше не включай эту композицию","intent":"music_dislikeness"}
-{"sentence":"Я не люблю этого исполнителя","intent":"music_dislikeness"}
-{"sentence":"Бұл ән маған ұнамайды","intent":"music_dislikeness"}
-{"sentence":"Осы тректі ұнамайтындар қатарына белгіле","intent":"music_dislikeness"}
-{"sentence":"Бұл әнді енді қоспа","intent":"music_dislikeness"}
-{"sentence":"Маған бұл орындаушы ұнамайды","intent":"music_dislikeness"}
-{"sentence":"I do not like this song","intent":"music_dislikeness"}
-{"sentence":"Mark this track as disliked","intent":"music_dislikeness"}
-{"sentence":"Do not play this song again","intent":"music_dislikeness"}
-{"sentence":"I dislike this artist","intent":"music_dislikeness"}
-{"sentence":"Добавь этой песне лайк","intent":"music_likeness"}
-{"sentence":"Отметь, что я люблю эту композицию","intent":"music_likeness"}
-{"sentence":"Классная музыка, запомни мой вкус","intent":"music_likeness"}
-{"sentence":"Поставь лайк текущему исполнителю","intent":"music_likeness"}
-{"sentence":"Осы әнге лайк қой","intent":"music_likeness"}
-{"sentence":"Бұл әнді жақсы көретінімді белгіле","intent":"music_likeness"}
-{"sentence":"Музыка күшті екен, талғамымды есте сақта","intent":"music_likeness"}
-{"sentence":"Қазіргі орындаушыға лайк қой","intent":"music_likeness"}
-{"sentence":"Give this song a thumbs up","intent":"music_likeness"}
-{"sentence":"Remember that I love this song","intent":"music_likeness"}
-{"sentence":"This music is great, remember my taste","intent":"music_likeness"}
-{"sentence":"Mark the current artist as a favorite","intent":"music_likeness"}
 {"sentence":"Как называется эта песня?","intent":"music_query"}
 {"sentence":"Кто поёт трек, который сейчас играет?","intent":"music_query"}
 {"sentence":"С какого альбома эта композиция?","intent":"music_query"}
@@ -574,18 +358,6 @@
 {"sentence":"Who sings the track playing now?","intent":"music_query"}
 {"sentence":"Which album is this song from?","intent":"music_query"}
 {"sentence":"What genre is this music?","intent":"music_query"}
-{"sentence":"Включи случайный порядок треков","intent":"music_settings"}
-{"sentence":"Повтори текущий альбом с начала","intent":"music_settings"}
-{"sentence":"Отключи перемешивание музыки","intent":"music_settings"}
-{"sentence":"Настрой повтор плейлиста","intent":"music_settings"}
-{"sentence":"Әндерді кездейсоқ ретпен қос","intent":"music_settings"}
-{"sentence":"Қазіргі альбомды басынан қайтала","intent":"music_settings"}
-{"sentence":"Музыканы араластыруды өшір","intent":"music_settings"}
-{"sentence":"Плейлист қайталанып ойнасын","intent":"music_settings"}
-{"sentence":"Turn on shuffle for my music","intent":"music_settings"}
-{"sentence":"Repeat the current album from the beginning","intent":"music_settings"}
-{"sentence":"Turn off shuffle mode","intent":"music_settings"}
-{"sentence":"Set the playlist to loop","intent":"music_settings"}
 {"sentence":"Какие сегодня главные новости?","intent":"news_query"}
 {"sentence":"Расскажи последние новости Казахстана","intent":"news_query"}
 {"sentence":"Покажи новости технологий за утро","intent":"news_query"}
@@ -658,30 +430,6 @@
 {"sentence":"Turn on the local news radio station","intent":"play_radio"}
 {"sentence":"Start a jazz radio station","intent":"play_radio"}
 {"sentence":"Play the radio broadcast live","intent":"play_radio"}
-{"sentence":"Пропусти этот эпизод подкаста","intent":"podcasts"}
-{"sentence":"Верни предыдущий выпуск","intent":"podcasts"}
-{"sentence":"Перейди к следующей серии подкаста","intent":"podcasts"}
-{"sentence":"Поставь прошлый эпизод вместо этого","intent":"podcasts"}
-{"sentence":"Осы эпизодты өткізіп жібер","intent":"podcasts"}
-{"sentence":"Алдыңғы шығарылымға қайт","intent":"podcasts"}
-{"sentence":"Подкасттың келесі бөліміне өт","intent":"podcasts"}
-{"sentence":"Мұның орнына өткен эпизодты қой","intent":"podcasts"}
-{"sentence":"Skip this podcast episode","intent":"podcasts"}
-{"sentence":"Go back to the previous episode","intent":"podcasts"}
-{"sentence":"Move to the next podcast installment","intent":"podcasts"}
-{"sentence":"Play the last episode instead of this one","intent":"podcasts"}
-{"sentence":"Напиши пост о сегодняшней прогулке","intent":"post"}
-{"sentence":"Размести сообщение «Мы открылись»","intent":"post"}
-{"sentence":"Выложи мой текст в соцсеть","intent":"post"}
-{"sentence":"Опубликуй твит о поездке","intent":"post"}
-{"sentence":"Бүгінгі серуен туралы пост жаз","intent":"post"}
-{"sentence":"«Біз ашылдық» деген хабарды жарияла","intent":"post"}
-{"sentence":"Мәтінімді әлеуметтік желіге шығар","intent":"post"}
-{"sentence":"Сапар туралы твит жарияла","intent":"post"}
-{"sentence":"Write a post about today's walk","intent":"post"}
-{"sentence":"Post the message We are open","intent":"post"}
-{"sentence":"Share my text on social media","intent":"post"}
-{"sentence":"Publish a tweet about my trip","intent":"post"}
 {"sentence":"Во сколько тенге обойдутся пятьдесят евро?","intent":"qa_currency"}
 {"sentence":"Сколько рублей получится из ста юаней?","intent":"qa_currency"}
 {"sentence":"Пересчитай тысячу тенге в доллары","intent":"qa_currency"}
@@ -706,18 +454,6 @@
 {"sentence":"Give me the definition of an algorithm","intent":"qa_definition"}
 {"sentence":"What is photosynthesis?","intent":"qa_definition"}
 {"sentence":"Define the word metaphor","intent":"qa_definition"}
-{"sentence":"Какая река самая длинная в Африке?","intent":"qa_factoid"}
-{"sentence":"Когда родился Альберт Эйнштейн?","intent":"qa_factoid"}
-{"sentence":"Сколько планет в Солнечной системе?","intent":"qa_factoid"}
-{"sentence":"В какой стране находится Мачу-Пикчу?","intent":"qa_factoid"}
-{"sentence":"Африкадағы ең ұзын өзен қайсы?","intent":"qa_factoid"}
-{"sentence":"Альберт Эйнштейн қашан туған?","intent":"qa_factoid"}
-{"sentence":"Күн жүйесінде неше ғаламшар бар?","intent":"qa_factoid"}
-{"sentence":"Мачу-Пикчу қай елде орналасқан?","intent":"qa_factoid"}
-{"sentence":"What is the longest river in Africa?","intent":"qa_factoid"}
-{"sentence":"When was Albert Einstein born?","intent":"qa_factoid"}
-{"sentence":"How many planets are in the Solar System?","intent":"qa_factoid"}
-{"sentence":"Which country is Machu Picchu in?","intent":"qa_factoid"}
 {"sentence":"Сколько будет двадцать три плюс сорок семь?","intent":"qa_maths"}
 {"sentence":"Чему равен квадрат девяти?","intent":"qa_maths"}
 {"sentence":"Раздели сто двадцать на шесть","intent":"qa_maths"}
@@ -742,42 +478,6 @@
 {"sentence":"How much have Microsoft shares risen?","intent":"qa_stock"}
 {"sentence":"At what price did Nvidia shares close yesterday?","intent":"qa_stock"}
 {"sentence":"How much is one Kaspi share?","intent":"qa_stock"}
-{"sentence":"Какая погода сегодня?","intent":"query"}
-{"sentence":"Что у меня в расписании?","intent":"query"}
-{"sentence":"Покажи непрочитанные письма","intent":"query"}
-{"sentence":"Есть ли дела на завтра?","intent":"query"}
-{"sentence":"Бүгін ауа райы қандай?","intent":"query"}
-{"sentence":"Жоспарымда не бар?","intent":"query"}
-{"sentence":"Оқылмаған хаттарды көрсет","intent":"query"}
-{"sentence":"Ертеңге жоспарланған іс бар ма?","intent":"query"}
-{"sentence":"What is the weather today?","intent":"query"}
-{"sentence":"What is on my schedule?","intent":"query"}
-{"sentence":"Show my unread emails","intent":"query"}
-{"sentence":"Do I have anything planned for tomorrow?","intent":"query"}
-{"sentence":"Какой у тебя любимый цвет?","intent":"quirky"}
-{"sentence":"Поболтай со мной немного","intent":"quirky"}
-{"sentence":"О чём ты сейчас думаешь?","intent":"quirky"}
-{"sentence":"Мне скучно, поговорим?","intent":"quirky"}
-{"sentence":"Сенің сүйікті түсің қандай?","intent":"quirky"}
-{"sentence":"Менімен біраз әңгімелесші","intent":"quirky"}
-{"sentence":"Қазір не туралы ойлап отырсың?","intent":"quirky"}
-{"sentence":"Ішім пысты, сөйлесеміз бе?","intent":"quirky"}
-{"sentence":"What is your favorite color?","intent":"quirky"}
-{"sentence":"Chat with me for a while","intent":"quirky"}
-{"sentence":"What are you thinking about now?","intent":"quirky"}
-{"sentence":"I am bored, can we talk?","intent":"quirky"}
-{"sentence":"Включи радио","intent":"radio"}
-{"sentence":"Поставь любую радиостанцию","intent":"radio"}
-{"sentence":"Переключи на FM","intent":"radio"}
-{"sentence":"Запусти радиоприёмник","intent":"radio"}
-{"sentence":"Радионы қосшы","intent":"radio"}
-{"sentence":"Кез келген радиостанцияны қой","intent":"radio"}
-{"sentence":"FM толқынына ауыс","intent":"radio"}
-{"sentence":"Радиоқабылдағышты іске қос","intent":"radio"}
-{"sentence":"Turn on the radio","intent":"radio"}
-{"sentence":"Play any radio station","intent":"radio"}
-{"sentence":"Switch to FM radio","intent":"radio"}
-{"sentence":"Start the radio receiver","intent":"radio"}
 {"sentence":"Что интересного будет в городе на выходных?","intent":"recommendation_events"}
 {"sentence":"Посоветуй концерт на вечер","intent":"recommendation_events"}
 {"sentence":"Найди семейное мероприятие на субботу","intent":"recommendation_events"}
@@ -814,42 +514,6 @@
 {"sentence":"What is worth seeing at the cinema this week?","intent":"recommendation_movies"}
 {"sentence":"Which family film is playing now?","intent":"recommendation_movies"}
 {"sentence":"Choose a movie with good reviews","intent":"recommendation_movies"}
-{"sentence":"Удали следующую встречу","intent":"remove"}
-{"sentence":"Убери молоко из списка","intent":"remove"}
-{"sentence":"Сотри ближайшее событие","intent":"remove"}
-{"sentence":"Удалить этот пункт из списка","intent":"remove"}
-{"sentence":"Келесі кездесуді өшір","intent":"remove"}
-{"sentence":"Тізімнен сүтті алып таста","intent":"remove"}
-{"sentence":"Ең жақын іс-шараны жой","intent":"remove"}
-{"sentence":"Осы тармақты тізімнен өшір","intent":"remove"}
-{"sentence":"Delete my next meeting","intent":"remove"}
-{"sentence":"Remove milk from the list","intent":"remove"}
-{"sentence":"Erase the upcoming event","intent":"remove"}
-{"sentence":"Delete this item from the list","intent":"remove"}
-{"sentence":"Отправь ответ на письмо Даны","intent":"sendemail"}
-{"sentence":"Ответь на последнее сообщение по почте","intent":"sendemail"}
-{"sentence":"Перешли Арману письмо с отчётом","intent":"sendemail"}
-{"sentence":"Отправь имейл с темой «встреча»","intent":"sendemail"}
-{"sentence":"Дананың хатына жауап жібер","intent":"sendemail"}
-{"sentence":"Поштадағы соңғы хабарға жауап бер","intent":"sendemail"}
-{"sentence":"Арманға есеп жазылған хатты жібер","intent":"sendemail"}
-{"sentence":"«Кездесу» тақырыбымен электрондық хат жолда","intent":"sendemail"}
-{"sentence":"Send a reply to Dana's email","intent":"sendemail"}
-{"sentence":"Reply to the last message in my inbox","intent":"sendemail"}
-{"sentence":"Forward the report email to Arman","intent":"sendemail"}
-{"sentence":"Send an email with the subject meeting","intent":"sendemail"}
-{"sentence":"Добавь встречу в календарь","intent":"set"}
-{"sentence":"Запланируй звонок на завтра","intent":"set"}
-{"sentence":"Поставь будильник на утро","intent":"set"}
-{"sentence":"Отметь день рождения в расписании","intent":"set"}
-{"sentence":"Күнтізбеге кездесу қос","intent":"set"}
-{"sentence":"Ертеңге қоңырау жоспарла","intent":"set"}
-{"sentence":"Таңертеңге оятқыш қой","intent":"set"}
-{"sentence":"Жоспарда туған күнді белгіле","intent":"set"}
-{"sentence":"Add a meeting to my calendar","intent":"set"}
-{"sentence":"Schedule a call for tomorrow","intent":"set"}
-{"sentence":"Set an alarm for the morning","intent":"set"}
-{"sentence":"Mark a birthday on my schedule","intent":"set"}
 {"sentence":"Напиши твит о концерте","intent":"social_post"}
 {"sentence":"Размести фото с подписью в соцсети","intent":"social_post"}
 {"sentence":"Выложи пост с благодарностью команде","intent":"social_post"}
@@ -898,30 +562,6 @@
 {"sentence":"Does this restaurant offer delivery?","intent":"takeaway_query"}
 {"sentence":"Show the status of my pizza order","intent":"takeaway_query"}
 {"sentence":"How much does sushi delivery cost?","intent":"takeaway_query"}
-{"sentence":"Какие сейчас пробки?","intent":"traffic"}
-{"sentence":"Как обстоят дела с движением?","intent":"traffic"}
-{"sentence":"Покажи дорожную обстановку","intent":"traffic"}
-{"sentence":"На улицах сейчас заторы?","intent":"traffic"}
-{"sentence":"Қазір кептеліс бар ма?","intent":"traffic"}
-{"sentence":"Жолдағы жағдай қалай?","intent":"traffic"}
-{"sentence":"Жол қозғалысының жағдайын көрсет","intent":"traffic"}
-{"sentence":"Қазір көшелерде кептеліс бар ма?","intent":"traffic"}
-{"sentence":"Are there traffic jams right now?","intent":"traffic"}
-{"sentence":"How is traffic moving?","intent":"traffic"}
-{"sentence":"Show the current road conditions","intent":"traffic"}
-{"sentence":"Is there congestion on the streets?","intent":"traffic"}
-{"sentence":"Во сколько отправляется следующий поезд?","intent":"transport_query"}
-{"sentence":"Покажи расписание автобуса номер десять","intent":"transport_query"}
-{"sentence":"Сколько времени ехать до вокзала?","intent":"transport_query"}
-{"sentence":"На каком маршруте добраться до центра?","intent":"transport_query"}
-{"sentence":"Келесі пойыз сағат нешеде жүреді?","intent":"transport_query"}
-{"sentence":"Оныншы автобустың кестесін көрсет","intent":"transport_query"}
-{"sentence":"Вокзалға дейін қанша уақыт жүремін?","intent":"transport_query"}
-{"sentence":"Орталыққа қай бағытпен баруға болады?","intent":"transport_query"}
-{"sentence":"When does the next train leave?","intent":"transport_query"}
-{"sentence":"Show the schedule for bus number ten","intent":"transport_query"}
-{"sentence":"How long does it take to reach the station?","intent":"transport_query"}
-{"sentence":"Which route will take me downtown?","intent":"transport_query"}
 {"sentence":"Закажи такси к моему дому","intent":"transport_taxi"}
 {"sentence":"Вызови машину до аэропорта","intent":"transport_taxi"}
 {"sentence":"Нужна поездка на такси через десять минут","intent":"transport_taxi"}
@@ -946,18 +586,6 @@
 {"sentence":"Book a bus ticket for Friday","intent":"transport_ticket"}
 {"sentence":"Get me a ticket for the evening flight","intent":"transport_ticket"}
 {"sentence":"Order a ticket for tomorrow's train","intent":"transport_ticket"}
-{"sentence":"Есть ли пробки по дороге в аэропорт?","intent":"transport_traffic"}
-{"sentence":"Какое движение на проспекте Абая?","intent":"transport_traffic"}
-{"sentence":"Сколько машин сейчас на моей дороге?","intent":"transport_traffic"}
-{"sentence":"Оцени пробки на маршруте до работы","intent":"transport_traffic"}
-{"sentence":"Әуежайға баратын жолда кептеліс бар ма?","intent":"transport_traffic"}
-{"sentence":"Абай даңғылындағы қозғалыс қалай?","intent":"transport_traffic"}
-{"sentence":"Менің жолымда қазір көлік көп пе?","intent":"transport_traffic"}
-{"sentence":"Жұмысқа баратын бағыттағы кептелісті бағала","intent":"transport_traffic"}
-{"sentence":"Is there traffic on the way to the airport?","intent":"transport_traffic"}
-{"sentence":"How is traffic on Abay Avenue?","intent":"transport_traffic"}
-{"sentence":"Is my route busy with cars right now?","intent":"transport_traffic"}
-{"sentence":"Estimate traffic on my commute to work","intent":"transport_traffic"}
 {"sentence":"Какая сегодня погода в Алматы?","intent":"weather_query"}
 {"sentence":"Будет ли завтра дождь?","intent":"weather_query"}
 {"sentence":"Сколько градусов сейчас на улице?","intent":"weather_query"}
@@ -970,15 +598,3 @@
 {"sentence":"Will it rain tomorrow?","intent":"weather_query"}
 {"sentence":"What is the temperature outside now?","intent":"weather_query"}
 {"sentence":"Will I need an umbrella this evening?","intent":"weather_query"}
-{"sentence":"Выключи розетку WeMo","intent":"wemo_off"}
-{"sentence":"Обесточь розетку для телевизора","intent":"wemo_off"}
-{"sentence":"Погаси питание на смарт-розетке","intent":"wemo_off"}
-{"sentence":"Выруби подключённую розетку","intent":"wemo_off"}
-{"sentence":"WeMo розеткасын өшір","intent":"wemo_off"}
-{"sentence":"Теледидар розеткасының қуатын өшір","intent":"wemo_off"}
-{"sentence":"Ақылды розеткадағы қуатты сөндір","intent":"wemo_off"}
-{"sentence":"Қосылған розетканы өшір","intent":"wemo_off"}
-{"sentence":"Turn off the WeMo outlet","intent":"wemo_off"}
-{"sentence":"Cut power to the television socket","intent":"wemo_off"}
-{"sentence":"Switch off the smart outlet","intent":"wemo_off"}
-{"sentence":"Turn off the connected plug","intent":"wemo_off"}

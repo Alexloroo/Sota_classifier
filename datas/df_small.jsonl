@@ -1,120 +1,60 @@
-{"sentence": "Поставь будильник на семь утра", "intent": "alarm_set"}
-{"sentence": "Разбуди меня завтра в восемь", "intent": "alarm_set"}
-{"sentence": "Заведи будильник на понедельник к шести", "intent": "alarm_set"}
-{"sentence": "Пусть будильник звонит каждый будний день в девять", "intent": "alarm_set"}
-{"sentence": "Напомни будильником через полчаса", "intent": "alarm_set"}
-{"sentence": "Оятқышты таңғы жетіге қойшы", "intent": "alarm_set"}
-{"sentence": "Ертең сегізде оятшы", "intent": "alarm_set"}
-{"sentence": "Дүйсенбіге сағат алтыға оятқыш орнат", "intent": "alarm_set"}
-{"sentence": "Әр жұмыс күні тоғызда оятқыш шырылдасын", "intent": "alarm_set"}
-{"sentence": "Жарты сағаттан кейін оятқыш шырылдасын", "intent": "alarm_set"}
-{"sentence": "Set an alarm for seven tomorrow morning", "intent": "alarm_set"}
-{"sentence": "Wake me up at eight a.m.", "intent": "alarm_set"}
-{"sentence": "Create an alarm for Monday at six", "intent": "alarm_set"}
-{"sentence": "Make my alarm ring every weekday at nine", "intent": "alarm_set"}
-{"sentence": "Set an alarm for thirty minutes from now", "intent": "alarm_set"}
-{"sentence": "Запусти робот-пылесос в гостиной", "intent": "cleaning"}
-{"sentence": "Пусть пылесос уберёт пол на кухне", "intent": "cleaning"}
-{"sentence": "Начни уборку квартиры роботом", "intent": "cleaning"}
-{"sentence": "Включи уборку пола через час", "intent": "cleaning"}
-{"sentence": "Пропылесось комнату прямо сейчас", "intent": "cleaning"}
-{"sentence": "Қонақ бөлмеде робот шаңсорғышты іске қос", "intent": "cleaning"}
-{"sentence": "Асүйдің еденін шаңсорғыш тазаласын", "intent": "cleaning"}
-{"sentence": "Пәтерді роботпен жинауды баста", "intent": "cleaning"}
-{"sentence": "Бір сағаттан кейін еден тазалауды қос", "intent": "cleaning"}
-{"sentence": "Бөлмені қазір шаңсорғышпен тазала", "intent": "cleaning"}
-{"sentence": "Start the robot vacuum in the living room", "intent": "cleaning"}
-{"sentence": "Have the vacuum clean the kitchen floor", "intent": "cleaning"}
-{"sentence": "Begin cleaning the apartment with the robot", "intent": "cleaning"}
-{"sentence": "Start floor cleaning in one hour", "intent": "cleaning"}
-{"sentence": "Vacuum the bedroom right now", "intent": "cleaning"}
-{"sentence": "Отправь Дане письмо с отчётом", "intent": "email_sendemail"}
-{"sentence": "Напиши Арману, что встречу перенесли", "intent": "email_sendemail"}
-{"sentence": "Ответь на последнее письмо от коллеги", "intent": "email_sendemail"}
-{"sentence": "Пошли маме письмо с фотографиями", "intent": "email_sendemail"}
-{"sentence": "Создай и отправь письмо команде о сроках", "intent": "email_sendemail"}
-{"sentence": "Данаға есепті хатпен жібер", "intent": "email_sendemail"}
-{"sentence": "Арманға кездесу ауысқанын жаз", "intent": "email_sendemail"}
-{"sentence": "Әріптестің соңғы хатына жауап бер", "intent": "email_sendemail"}
-{"sentence": "Анама суреттері бар хат жолда", "intent": "email_sendemail"}
-{"sentence": "Топқа мерзімдер туралы хат жазып жібер", "intent": "email_sendemail"}
-{"sentence": "Send Dana an email with the report", "intent": "email_sendemail"}
-{"sentence": "Write Arman that the meeting was moved", "intent": "email_sendemail"}
-{"sentence": "Reply to the latest email from my colleague", "intent": "email_sendemail"}
-{"sentence": "Email the photos to my mother", "intent": "email_sendemail"}
-{"sentence": "Send the team an email about the deadlines", "intent": "email_sendemail"}
-{"sentence": "Поменяй цвет лампы на синий", "intent": "iot_hue_lightchange"}
-{"sentence": "Сделай освещение в гостиной зелёным", "intent": "iot_hue_lightchange"}
-{"sentence": "Установи тёплый жёлтый цвет света", "intent": "iot_hue_lightchange"}
-{"sentence": "Переключи умную лампу на фиолетовый", "intent": "iot_hue_lightchange"}
-{"sentence": "Пусть лампы светят красным", "intent": "iot_hue_lightchange"}
-{"sentence": "Шамның түсін көкке өзгерт", "intent": "iot_hue_lightchange"}
-{"sentence": "Қонақ бөлменің жарығын жасыл қыл", "intent": "iot_hue_lightchange"}
-{"sentence": "Жарыққа жылы сары түс орнат", "intent": "iot_hue_lightchange"}
-{"sentence": "Ақылды шамды күлгін түске ауыстыр", "intent": "iot_hue_lightchange"}
-{"sentence": "Шамдар қызыл түспен жансын", "intent": "iot_hue_lightchange"}
-{"sentence": "Change the lamp color to blue", "intent": "iot_hue_lightchange"}
-{"sentence": "Make the living room lights green", "intent": "iot_hue_lightchange"}
-{"sentence": "Set the lights to a warm yellow", "intent": "iot_hue_lightchange"}
-{"sentence": "Switch the smart bulb to purple", "intent": "iot_hue_lightchange"}
-{"sentence": "Make the lamps glow red", "intent": "iot_hue_lightchange"}
-{"sentence": "Сколько будет двадцать три плюс сорок семь?", "intent": "qa_maths"}
-{"sentence": "Посчитай пятнадцать процентов от двухсот", "intent": "qa_maths"}
-{"sentence": "Чему равен квадрат девяти?", "intent": "qa_maths"}
-{"sentence": "Раздели сто двадцать на шесть", "intent": "qa_maths"}
-{"sentence": "Сколько будет семь умножить на восемь?", "intent": "qa_maths"}
-{"sentence": "Жиырма үшке қырық жетіні қосқанда қанша болады?", "intent": "qa_maths"}
-{"sentence": "Екі жүздің он бес пайызын есепте", "intent": "qa_maths"}
-{"sentence": "Тоғыздың квадраты нешеге тең?", "intent": "qa_maths"}
-{"sentence": "Жүз жиырманы алтыға бөл", "intent": "qa_maths"}
-{"sentence": "Жетіні сегізге көбейтсең қанша шығады?", "intent": "qa_maths"}
-{"sentence": "What is twenty-three plus forty-seven?", "intent": "qa_maths"}
-{"sentence": "Calculate fifteen percent of two hundred", "intent": "qa_maths"}
-{"sentence": "What is nine squared?", "intent": "qa_maths"}
-{"sentence": "Divide one hundred and twenty by six", "intent": "qa_maths"}
-{"sentence": "What is seven times eight?", "intent": "qa_maths"}
-{"sentence": "Закажи пиццу с сыром на дом", "intent": "takeaway_order"}
-{"sentence": "Оформи доставку двух бургеров", "intent": "takeaway_order"}
-{"sentence": "Закажи суши к семи вечера", "intent": "takeaway_order"}
-{"sentence": "Мне нужен заказ лапши с собой", "intent": "takeaway_order"}
-{"sentence": "Добавь салат к заказу еды", "intent": "takeaway_order"}
-{"sentence": "Үйге ірімшікті пиццаға тапсырыс бер", "intent": "takeaway_order"}
-{"sentence": "Екі бургерді жеткізуге рәсімде", "intent": "takeaway_order"}
-{"sentence": "Кешкі жетіге сушиге тапсырыс бер", "intent": "takeaway_order"}
-{"sentence": "Алып кетуге кеспе тапсырыс керек", "intent": "takeaway_order"}
-{"sentence": "Тамақ тапсырысына салат қос", "intent": "takeaway_order"}
-{"sentence": "Order a cheese pizza for delivery", "intent": "takeaway_order"}
-{"sentence": "Place an order for two burgers", "intent": "takeaway_order"}
-{"sentence": "Order sushi for seven this evening", "intent": "takeaway_order"}
-{"sentence": "Get me noodles to take away", "intent": "takeaway_order"}
-{"sentence": "Add a salad to my food order", "intent": "takeaway_order"}
-{"sentence": "Закажи такси к моему дому", "intent": "transport_taxi"}
-{"sentence": "Вызови машину до аэропорта", "intent": "transport_taxi"}
-{"sentence": "Нужна поездка на такси через десять минут", "intent": "transport_taxi"}
-{"sentence": "Пусть такси заберёт меня у вокзала", "intent": "transport_taxi"}
-{"sentence": "Оформи такси до офиса", "intent": "transport_taxi"}
-{"sentence": "Үйіме такси шақыр", "intent": "transport_taxi"}
-{"sentence": "Әуежайға дейін көлік шақыр", "intent": "transport_taxi"}
-{"sentence": "Он минуттан кейін такси керек", "intent": "transport_taxi"}
-{"sentence": "Такси мені вокзалдан алып кетсін", "intent": "transport_taxi"}
-{"sentence": "Кеңсеге дейін такси рәсімде", "intent": "transport_taxi"}
-{"sentence": "Book a taxi to my home", "intent": "transport_taxi"}
-{"sentence": "Call a car to take me to the airport", "intent": "transport_taxi"}
-{"sentence": "I need a taxi in ten minutes", "intent": "transport_taxi"}
-{"sentence": "Have a taxi pick me up at the station", "intent": "transport_taxi"}
-{"sentence": "Arrange a cab to the office", "intent": "transport_taxi"}
-{"sentence": "Какая сегодня погода в Алматы?", "intent": "weather_query"}
-{"sentence": "Будет ли завтра дождь?", "intent": "weather_query"}
-{"sentence": "Сколько градусов сейчас на улице?", "intent": "weather_query"}
-{"sentence": "Нужен ли зонт вечером?", "intent": "weather_query"}
-{"sentence": "Какой прогноз на выходные?", "intent": "weather_query"}
-{"sentence": "Бүгін Алматыда ауа райы қандай?", "intent": "weather_query"}
-{"sentence": "Ертең жаңбыр жауа ма?", "intent": "weather_query"}
-{"sentence": "Қазір сыртта ауа температурасы қанша?", "intent": "weather_query"}
-{"sentence": "Кешке қолшатыр керек пе?", "intent": "weather_query"}
-{"sentence": "Демалыс күндеріне ауа райы болжамы қандай?", "intent": "weather_query"}
-{"sentence": "What is the weather like in Almaty today?", "intent": "weather_query"}
-{"sentence": "Will it rain tomorrow?", "intent": "weather_query"}
-{"sentence": "What is the temperature outside now?", "intent": "weather_query"}
-{"sentence": "Will I need an umbrella this evening?", "intent": "weather_query"}
-{"sentence": "What is the weekend forecast?", "intent": "weather_query"}
+{"sentence": "Здравствуйте! Мы запускаем платформу онлайн-обучения. Помогите разработать стратегию продвижения и привлечь первых клиентов.", "intent": "marketing"}
+{"sentence": "Сәлеметсіз бе! Біз онлайн оқу платформасын іске қосып жатырмыз. Оны ілгерілету стратегиясын әзірлеп, алғашқы клиенттерді тартуға көмектесіңізші.", "intent": "marketing"}
+{"sentence": "Hi! We are launching an online learning platform. Can you help us plan its promotion and attract our first customers?", "intent": "marketing"}
+{"sentence": "Реклама нашего сервиса стала приносить меньше заявок. Посмотрите результаты кампании и подскажите, как улучшить объявления.", "intent": "marketing"}
+{"sentence": "Сервисіміздің жарнамасынан түсетін өтінімдер азайды. Науқан нәтижелерін қарап, жарнамаларды қалай жақсартуға болатынын айтыңызшы.", "intent": "marketing"}
+{"sentence": "Our service ads are generating fewer leads. Could you review the campaign results and suggest how to improve the ads?", "intent": "marketing"}
+{"sentence": "Для нового продукта нужны позиционирование бренда, слоган и тексты для главной страницы. Кому можно передать этот бриф?", "intent": "marketing"}
+{"sentence": "Жаңа өнімге брендтің нарықтағы орнын анықтау, ұран және басты бетке мәтіндер дайындау керек. Осы брифті кімге жіберсем болады?", "intent": "marketing"}
+{"sentence": "We need brand positioning, a slogan, and homepage copy for a new product. Who should I send the brief to?", "intent": "marketing"}
+{"sentence": "Хотим разделить аудиторию по интересам и подготовить разные рекламные предложения для рассылки. Помогите с сегментацией и содержанием писем.", "intent": "marketing"}
+{"sentence": "Аудиторияны қызығушылықтарына қарай бөліп, әр топқа бөлек жарнамалық ұсыныс жібергіміз келеді. Сегменттеу мен хат мәтіндерін дайындауға көмектесіңізші.", "intent": "marketing"}
+{"sentence": "We want to segment our audience by interests and send tailored promotional offers. Can you help with the segments and email content?", "intent": "marketing"}
+{"sentence": "Через месяц проводим конференцию для клиентов. Нужен план публикаций в соцсетях и рекламная кампания, чтобы набрать участников.", "intent": "marketing"}
+{"sentence": "Бір айдан кейін клиенттерге арналған конференция өткіземіз. Қатысушыларды тарту үшін әлеуметтік желілердегі жарияланымдар жоспары мен жарнамалық науқан керек.", "intent": "marketing"}
+{"sentence": "We are hosting a customer conference next month. We need a social media content plan and an ad campaign to get people to register.", "intent": "marketing"}
+{"sentence": "Мы подписали договор на разработку сайта. Пришлите, пожалуйста, счёт на предоплату и банковские реквизиты вашей компании.", "intent": "finance"}
+{"sentence": "Сайт әзірлеу туралы шартқа қол қойдық. Алдын ала төлем жасау үшін шот пен компанияңыздың банк деректемелерін жіберіңізші.", "intent": "finance"}
+{"sentence": "We have signed the website development contract. Please send us the advance payment invoice and your company's bank details.", "intent": "finance"}
+{"sentence": "Нужно составить бюджет проекта на следующий квартал и сравнить плановые расходы с фактическими. Могу отправить таблицу затрат.", "intent": "finance"}
+{"sentence": "Келесі тоқсанға жобаның бюджетін жасап, жоспарланған шығындарды нақты шығындармен салыстыру керек. Шығындар кестесін жібере аламын.", "intent": "finance"}
+{"sentence": "We need a project budget for next quarter and a comparison of planned versus actual spending. I can send you the expense spreadsheet.", "intent": "finance"}
+{"sentence": "С моей карты дважды списали оплату за одну подписку. Проверьте платежи и оформите возврат лишней суммы, пожалуйста.", "intent": "finance"}
+{"sentence": "Бір жазылым үшін картамнан ақша екі рет алынды. Төлемдерді тексеріп, артық алынған соманы қайтарып беріңізші.", "intent": "finance"}
+{"sentence": "My card was charged twice for the same subscription. Please check the payments and arrange a refund for the extra charge.", "intent": "finance"}
+{"sentence": "В счёте за услуги сумма не совпадает с договором. Объясните расчёт стоимости и проверьте, правильно ли указан НДС.", "intent": "finance"}
+{"sentence": "Қызметтер үшін берілген шоттағы сома шарттағы сомамен сәйкес келмейді. Бағаның қалай есептелгенін түсіндіріп, ҚҚС дұрыс көрсетілгенін тексеріңізші.", "intent": "finance"}
+{"sentence": "The service invoice total does not match our contract. Could you explain the cost calculation and check whether VAT is listed correctly?", "intent": "finance"}
+{"sentence": "Вчера перечислили оплату по вашему счёту. Подтвердите получение денег и пришлите акт выполненных работ для нашей бухгалтерии.", "intent": "finance"}
+{"sentence": "Кеше сіздердің шоттарыңыз бойынша төлем жасадық. Ақшаның түскенін растап, бухгалтериямызға орындалған жұмыстар актісін жіберіңізші.", "intent": "finance"}
+{"sentence": "We paid your invoice yesterday. Please confirm that the money arrived and send the completion certificate to our accounting team.", "intent": "finance"}
+{"sentence": "Здравствуйте! Хочу откликнуться на вакансию менеджера проектов. Отправляю резюме и портфолио, подскажите дальнейшие этапы отбора.", "intent": "hr"}
+{"sentence": "Сәлеметсіз бе! Жоба менеджері бос орнына өтініш бергім келеді. Түйіндемем мен портфолиомды жіберіп отырмын, іріктеудің келесі кезеңдерін айтып беріңізші.", "intent": "hr"}
+{"sentence": "Hello! I would like to apply for the project manager role. I am sending my resume and portfolio; could you explain the next steps in the hiring process?", "intent": "hr"}
+{"sentence": "В команду нужен Python-разработчик. Помогите составить описание вакансии и определить требования к кандидатам.", "intent": "hr"}
+{"sentence": "Командамызға Python әзірлеушісі керек. Бос орынның сипаттамасын жазып, үміткерлерге қойылатын талаптарды анықтауға көмектесіңізші.", "intent": "hr"}
+{"sentence": "Our team needs a Python developer. Could you help write the job description and define the candidate requirements?", "intent": "hr"}
+{"sentence": "Меня пригласили на собеседование, но в указанное время я занят. Можно перенести встречу с рекрутером на пятницу?", "intent": "hr"}
+{"sentence": "Мені жұмысқа қабылдау сұхбатына шақырды, бірақ белгіленген уақытта қолым бос емес. Рекрутермен кездесуді жұмаға ауыстыруға бола ма?", "intent": "hr"}
+{"sentence": "I was invited to a job interview, but I am unavailable at the scheduled time. Could we move the meeting with the recruiter to Friday?", "intent": "hr"}
+{"sentence": "Новый сотрудник выходит в понедельник. Какие документы нужны для оформления и как проходит адаптация в течение испытательного срока?", "intent": "hr"}
+{"sentence": "Жаңа қызметкер дүйсенбіде жұмысқа кіріседі. Оны жұмысқа рәсімдеу үшін қандай құжаттар керек және сынақ мерзімінде бейімделу қалай өтеді?", "intent": "hr"}
+{"sentence": "A new employee starts on Monday. What documents are needed for employment paperwork, and how does onboarding work during the probation period?", "intent": "hr"}
+{"sentence": "Хочу взять отпуск с 10 по 20 ноября. Подскажите, сколько дней у меня осталось и кому отправить заявление на согласование.", "intent": "hr"}
+{"sentence": "10 қарашадан 20 қарашаға дейін демалыс алғым келеді. Қанша демалыс күнім қалғанын және өтінішті келісу үшін кімге жіберу керегін айтыңызшы.", "intent": "hr"}
+{"sentence": "I would like to take leave from November 10 to November 20. How many leave days do I have left, and who should approve my request?", "intent": "hr"}
+{"sentence": "Не могу войти в личный кабинет: после смены пароля система снова пишет, что он неверный. Помогите восстановить доступ.", "intent": "it"}
+{"sentence": "Жеке кабинетке кіре алмай жатырмын: құпиясөзді ауыстырғаннан кейін де жүйе оны қате деп көрсетеді. Қолжетімділікті қалпына келтіруге көмектесіңізші.", "intent": "it"}
+{"sentence": "I cannot sign in to my account: even after resetting my password, the system says it is incorrect. Please help me regain access.", "intent": "it"}
+{"sentence": "Для нашего проекта нужно связать форму на сайте с CRM через API, чтобы заявки передавались автоматически. Помогите настроить интеграцию.", "intent": "it"}
+{"sentence": "Жобамызда өтінімдер автоматты түрде жіберілуі үшін сайттағы форманы API арқылы CRM жүйесімен байланыстыру керек. Интеграцияны баптауға көмектесіңізші.", "intent": "it"}
+{"sentence": "Our project needs the website form connected to the CRM through an API so that requests are transferred automatically. Can you help set up the integration?", "intent": "it"}
+{"sentence": "При загрузке файла приложение выдаёт ошибку 500 и перестаёт отвечать. Передам скриншот и логи, помогите исправить сбой.", "intent": "it"}
+{"sentence": "Файл жүктегенде қолданба 500 қатесін көрсетіп, жауап бермей қалады. Скриншот пен логтарды жіберемін, ақауды түзетуге көмектесіңізші.", "intent": "it"}
+{"sentence": "The application returns a 500 error and stops responding when I upload a file. I can send a screenshot and logs; please help fix the issue.", "intent": "it"}
+{"sentence": "Нужно настроить рабочий ноутбук сотрудника: установить программы, подключить VPN и корпоративную почту. Когда специалист сможет помочь?", "intent": "it"}
+{"sentence": "Қызметкердің жұмыс ноутбугін баптау керек: бағдарламаларды орнатып, VPN мен корпоративтік поштаны қосу қажет. Маманыңыз қашан көмектесе алады?", "intent": "it"}
+{"sentence": "We need an employee's work laptop configured with the required software, VPN, and company email. When can a technician help?", "intent": "it"}
+{"sentence": "После обновления сети не открывается общая папка на сервере. Проверьте подключение и права доступа, там лежат файлы нашего проекта.", "intent": "it"}
+{"sentence": "Желі жаңартылғаннан кейін сервердегі ортақ қалта ашылмай жатыр. Қосылым мен қолжетімділік құқықтарын тексеріңізші, ол жерде жобамыздың файлдары бар.", "intent": "it"}
+{"sentence": "The shared folder on the server has been inaccessible since the network update. Please check the connection and access permissions; our project files are stored there.", "intent": "it"}

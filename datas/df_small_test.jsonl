@@ -1,24 +1,12 @@
-{"sentence": "Заведи будильник на понедельник к шести", "intent": "alarm_set"}
-{"sentence": "Дүйсенбіге сағат алтыға оятқыш орнат", "intent": "alarm_set"}
-{"sentence": "Create an alarm for Monday at six", "intent": "alarm_set"}
-{"sentence": "Включи уборку пола через час", "intent": "cleaning"}
-{"sentence": "Бір сағаттан кейін еден тазалауды қос", "intent": "cleaning"}
-{"sentence": "Start floor cleaning in one hour", "intent": "cleaning"}
-{"sentence": "Создай и отправь письмо команде о сроках", "intent": "email_sendemail"}
-{"sentence": "Топқа мерзімдер туралы хат жазып жібер", "intent": "email_sendemail"}
-{"sentence": "Send the team an email about the deadlines", "intent": "email_sendemail"}
-{"sentence": "Сделай освещение в гостиной зелёным", "intent": "iot_hue_lightchange"}
-{"sentence": "Қонақ бөлменің жарығын жасыл қыл", "intent": "iot_hue_lightchange"}
-{"sentence": "Make the living room lights green", "intent": "iot_hue_lightchange"}
-{"sentence": "Посчитай пятнадцать процентов от двухсот", "intent": "qa_maths"}
-{"sentence": "Екі жүздің он бес пайызын есепте", "intent": "qa_maths"}
-{"sentence": "Calculate fifteen percent of two hundred", "intent": "qa_maths"}
-{"sentence": "Оформи доставку двух бургеров", "intent": "takeaway_order"}
-{"sentence": "Екі бургерді жеткізуге рәсімде", "intent": "takeaway_order"}
-{"sentence": "Place an order for two burgers", "intent": "takeaway_order"}
-{"sentence": "Пусть такси заберёт меня у вокзала", "intent": "transport_taxi"}
-{"sentence": "Такси мені вокзалдан алып кетсін", "intent": "transport_taxi"}
-{"sentence": "Have a taxi pick me up at the station", "intent": "transport_taxi"}
-{"sentence": "Какой прогноз на выходные?", "intent": "weather_query"}
-{"sentence": "Демалыс күндеріне ауа райы болжамы қандай?", "intent": "weather_query"}
-{"sentence": "What is the weekend forecast?", "intent": "weather_query"}
+{"sentence":"Через месяц проводим конференцию для клиентов. Нужен план публикаций в соцсетях и рекламная кампания, чтобы набрать участников.","intent":"marketing"}
+{"sentence":"Бір айдан кейін клиенттерге арналған конференция өткіземіз. Қатысушыларды тарту үшін әлеуметтік желілердегі жарияланымдар жоспары мен жарнамалық науқан керек.","intent":"marketing"}
+{"sentence":"We are hosting a customer conference next month. We need a social media content plan and an ad campaign to get people to register.","intent":"marketing"}
+{"sentence":"Вчера перечислили оплату по вашему счёту. Подтвердите получение денег и пришлите акт выполненных работ для нашей бухгалтерии.","intent":"finance"}
+{"sentence":"Кеше сіздердің шоттарыңыз бойынша төлем жасадық. Ақшаның түскенін растап, бухгалтериямызға орындалған жұмыстар актісін жіберіңізші.","intent":"finance"}
+{"sentence":"We paid your invoice yesterday. Please confirm that the money arrived and send the completion certificate to our accounting team.","intent":"finance"}
+{"sentence":"Хочу взять отпуск с 10 по 20 ноября. Подскажите, сколько дней у меня осталось и кому отправить заявление на согласование.","intent":"hr"}
+{"sentence":"10 қарашадан 20 қарашаға дейін демалыс алғым келеді. Қанша демалыс күнім қалғанын және өтінішті келісу үшін кімге жіберу керегін айтыңызшы.","intent":"hr"}
+{"sentence":"I would like to take leave from November 10 to November 20. How many leave days do I have left, and who should approve my request?","intent":"hr"}
+{"sentence":"После обновления сети не открывается общая папка на сервере. Проверьте подключение и права доступа, там лежат файлы нашего проекта.","intent":"it"}
+{"sentence":"Желі жаңартылғаннан кейін сервердегі ортақ қалта ашылмай жатыр. Қосылым мен қолжетімділік құқықтарын тексеріңізші, ол жерде жобамыздың файлдары бар.","intent":"it"}
+{"sentence":"The shared folder on the server has been inaccessible since the network update. Please check the connection and access permissions; our project files are stored there.","intent":"it"}
