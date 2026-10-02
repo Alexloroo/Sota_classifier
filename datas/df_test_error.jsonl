@@ -1,0 +1,150 @@
+{"sentence":"Какие будилники у меня включены?","intent":"alarm_query"}
+{"sentence":"Қандай ояткыштарым қосулы тур?","intent":"alarm_query"}
+{"sentence":"Which alrams are currently active?","intent":"alarm_query"}
+{"sentence":"Удали будильник на шесть утр","intent":"alarm_remove"}
+{"sentence":"Таңғы алтыдағы оятқышты ошірші","intent":"alarm_remove"}
+{"sentence":"Delete my six a.m. alram","intent":"alarm_remove"}
+{"sentence":"Заведи будилник на понеделник к шести","intent":"alarm_set"}
+{"sentence":"Дүйсенбіге сағат алтыға ояткыш орнат","intent":"alarm_set"}
+{"sentence":"Create an alarm for Monady at six","intent":"alarm_set"}
+{"sentence":"Убавь громкасть до двадцати процентов","intent":"audio_volume_down"}
+{"sentence":"Дыбыс денгейін жиырма пайызға түсір","intent":"audio_volume_down"}
+{"sentence":"Lower the voulme to twenty percent","intent":"audio_volume_down"}
+{"sentence":"Поставь устройство на беззвучный рижим","intent":"audio_volume_mute"}
+{"sentence":"Құрылғыны дыбыссыз режимге кой","intent":"audio_volume_mute"}
+{"sentence":"Put the device in slient mode","intent":"audio_volume_mute"}
+{"sentence":"Сделай звук погромч","intent":"audio_volume_up"}
+{"sentence":"Дыбысты қаттырак шығаршы","intent":"audio_volume_up"}
+{"sentence":"Make the sound loudr","intent":"audio_volume_up"}
+{"sentence":"Какие события запланированы на эту недлю?","intent":"calendar_query"}
+{"sentence":"Осы аптаға қандай іс-шаралар жоспарланан?","intent":"calendar_query"}
+{"sentence":"What events are schedueld this week?","intent":"calendar_query"}
+{"sentence":"Удали встречу с врачем из календаря","intent":"calendar_remove"}
+{"sentence":"Дәрігермен кездесуді күнтізбеден ошірші","intent":"calendar_remove"}
+{"sentence":"Delete my doctor's appoinment from the calendar","intent":"calendar_remove"}
+{"sentence":"Отметь в календре день рождения брата","intent":"calendar_set"}
+{"sentence":"Інімнің туған күнін күнтізбеге белгле","intent":"calendar_set"}
+{"sentence":"Mark my brother's brithday on the calendar","intent":"calendar_set"}
+{"sentence":"Что быстро пригатовить на ужин?","intent":"cooking_query"}
+{"sentence":"Кешкі асқа не тез дайындауга болады?","intent":"cooking_query"}
+{"sentence":"What can I cook quikly for dinner?","intent":"cooking_query"}
+{"sentence":"Найди рицепт домашнего борща","intent":"cooking_recipe"}
+{"sentence":"Үй борщының рецептин тауып берші","intent":"cooking_recipe"}
+{"sentence":"Find a recipie for homemade borscht","intent":"cooking_recipe"}
+{"sentence":"Пересчитай шесть утра в Нью-Йорке на наше вреям","intent":"datetime_convert"}
+{"sentence":"Нью-Йорктегі таңғы алтыны біздің уакытқа есепте","intent":"datetime_convert"}
+{"sentence":"Convert six a.m. in New York to my loacl time","intent":"datetime_convert"}
+{"sentence":"Какое щас время в Лондоне?","intent":"datetime_query"}
+{"sentence":"Лондонда казір уақыт қанша?","intent":"datetime_query"}
+{"sentence":"Whats the time in London?","intent":"datetime_query"}
+{"sentence":"Сохрани почту Алии в кантактах","intent":"email_addcontact"}
+{"sentence":"Әлияның поштасын контактілерге сакта","intent":"email_addcontact"}
+{"sentence":"Save Aliya's email adress in my contacts","intent":"email_addcontact"}
+{"sentence":"Какие писма пришли утром?","intent":"email_query"}
+{"sentence":"Таңертен қандай хаттар келді?","intent":"email_query"}
+{"sentence":"Which emials arrived this morning?","intent":"email_query"}
+{"sentence":"Какой имейл записн у Армана?","intent":"email_querycontact"}
+{"sentence":"Арманның қандай поштасы жазылан?","intent":"email_querycontact"}
+{"sentence":"What email adress is saved for Arman?","intent":"email_querycontact"}
+{"sentence":"Создай и отправь писмо команде о сроках","intent":"email_sendemail"}
+{"sentence":"Топқа мерзімдер туралы хат жазп жібер","intent":"email_sendemail"}
+{"sentence":"Send the team an email about the deadlnes","intent":"email_sendemail"}
+{"sentence":"Добрый вечр, как настроение?","intent":"general_greet"}
+{"sentence":"Қайырлы кеш, көңіл күйің калай?","intent":"general_greet"}
+{"sentence":"Good evning, how is your mood?","intent":"general_greet"}
+{"sentence":"Знаешь шутку про програмистов?","intent":"general_joke"}
+{"sentence":"Бағдарламашылар туралы әзіл білесін бе?","intent":"general_joke"}
+{"sentence":"Do you know a joke about programers?","intent":"general_joke"}
+{"sentence":"Запусти уборку кавра роботом","intent":"iot_cleaning"}
+{"sentence":"Кілемді роботпен тазалауды бастаa","intent":"iot_cleaning"}
+{"sentence":"Have the robot clean the carpt","intent":"iot_cleaning"}
+{"sentence":"Пусть кофеварка приготовит эспресо","intent":"iot_coffee"}
+{"sentence":"Кофеқайнаткыш эспрессо әзірлесін","intent":"iot_coffee"}
+{"sentence":"Have the coffe maker prepare an espresso","intent":"iot_coffee"}
+{"sentence":"Сделай освещение в гостинной зелёным","intent":"iot_hue_lightchange"}
+{"sentence":"Қонақ бөлменің жарығын жасыл кыл","intent":"iot_hue_lightchange"}
+{"sentence":"Make the living room ligths green","intent":"iot_hue_lightchange"}
+{"sentence":"Выключи умный свет в гостиной пж","intent":"iot_hue_lightoff"}
+{"sentence":"Қонақ бөлмедегі ақылды жарыкты өшір","intent":"iot_hue_lightoff"}
+{"sentence":"Turn off the smart ligths in the living room","intent":"iot_hue_lightoff"}
+{"sentence":"Включи свет в прихожй","intent":"iot_hue_lighton"}
+{"sentence":"Кіреберістегі жарықты кос","intent":"iot_hue_lighton"}
+{"sentence":"Turn on the entryway ligth","intent":"iot_hue_lighton"}
+{"sentence":"Отключи умную разетку в спальне","intent":"iot_wemo_off"}
+{"sentence":"Жатын бөлмедегі ақылды розетканы ошір","intent":"iot_wemo_off"}
+{"sentence":"Turn off the smart outelt in the bedroom","intent":"iot_wemo_off"}
+{"sentence":"Включи штекер для таршера","intent":"iot_wemo_on"}
+{"sentence":"Еден шамының ақылды розеткасын кос","intent":"iot_wemo_on"}
+{"sentence":"Switch on the floor lamp's smart sokcet","intent":"iot_wemo_on"}
+{"sentence":"Внеси молоко в мой продуктовый списк","intent":"lists_createoradd"}
+{"sentence":"Азық-түлік тізіміме сүт енгз","intent":"lists_createoradd"}
+{"sentence":"Add milk to my grocrey list","intent":"lists_createoradd"}
+{"sentence":"Какие продукты я отметил на севодня?","intent":"lists_query"}
+{"sentence":"Бүгінге қандай азық-түлік белгіледм?","intent":"lists_query"}
+{"sentence":"Which groceries did I mark for toady?","intent":"lists_query"}
+{"sentence":"Удали малоко из списка покупок","intent":"lists_remove"}
+{"sentence":"Сатып алу тізімінен сүтті ошір","intent":"lists_remove"}
+{"sentence":"Remove milk from my shoping list","intent":"lists_remove"}
+{"sentence":"Назови исполнителя текущей песн","intent":"music_query"}
+{"sentence":"Қазіргі әннің орындаушысын аит","intent":"music_query"}
+{"sentence":"Name the artist of the curent song","intent":"music_query"}
+{"sentence":"Прочитай свежие загаловки","intent":"news_query"}
+{"sentence":"Соңғы жаңалықтардың тақырыптарын окы","intent":"news_query"}
+{"sentence":"Read the latest news headlnes","intent":"news_query"}
+{"sentence":"Запусти следущую главу аудиокниги","intent":"play_audiobook"}
+{"sentence":"Аудиокітаптың келесі тарауын оинат","intent":"play_audiobook"}
+{"sentence":"Start the next chpater of my audiobook","intent":"play_audiobook"}
+{"sentence":"Включи словестную игру","intent":"play_game"}
+{"sentence":"Сөз ойынын кос","intent":"play_game"}
+{"sentence":"Launch a wrod game","intent":"play_game"}
+{"sentence":"Запусти плейлст «Дорога»","intent":"play_music"}
+{"sentence":"«Жол» плейлистін іске кос","intent":"play_music"}
+{"sentence":"Start the Road playlst","intent":"play_music"}
+{"sentence":"Воспроизведи падкаст с начала","intent":"play_podcasts"}
+{"sentence":"Подкасты басынан ойнат","intent":"play_podcasts"}
+{"sentence":"Play the podcats from the beginning","intent":"play_podcasts"}
+{"sentence":"Настрой станцыю на частоту 101 FM","intent":"play_radio"}
+{"sentence":"Радионы 101 FM жиілігіне батпа","intent":"play_radio"}
+{"sentence":"Tuen to 101 FM","intent":"play_radio"}
+{"sentence":"Каков обменый курс доллара к тенге?","intent":"qa_currency"}
+{"sentence":"Доллардың теңгеге айырбас бағамы кандай?","intent":"qa_currency"}
+{"sentence":"What is the dollar to tenge exhange rate?","intent":"qa_currency"}
+{"sentence":"Обьясни значение термина «инфляция»","intent":"qa_definition"}
+{"sentence":"«Инфляция» терминінің мағынасын түсндiр","intent":"qa_definition"}
+{"sentence":"Explain the meanng of inflation","intent":"qa_definition"}
+{"sentence":"Посчитай пятнацать процентов от двухсот","intent":"qa_maths"}
+{"sentence":"Екі жүздің он бес пайызын есепт","intent":"qa_maths"}
+{"sentence":"Calculate fiften percent of two hundred","intent":"qa_maths"}
+{"sentence":"Какая щас цена акций Apple?","intent":"qa_stock"}
+{"sentence":"Apple акциясының қазіргі бағасы канша?","intent":"qa_stock"}
+{"sentence":"What is the curent Apple share price?","intent":"qa_stock"}
+{"sentence":"Какие выстовки стоит посетить рядом?","intent":"recommendation_events"}
+{"sentence":"Жақын жерде қандай көрмеге барған дурыс?","intent":"recommendation_events"}
+{"sentence":"Which nearby exibitions should I visit?","intent":"recommendation_events"}
+{"sentence":"Где рядом есть тихий парk?","intent":"recommendation_locations"}
+{"sentence":"Маңайда тыныш саябақ кайда бар?","intent":"recommendation_locations"}
+{"sentence":"Where is a quiet prk around here?","intent":"recommendation_locations"}
+{"sentence":"Посоветуй хорошую камедию в прокате","intent":"recommendation_movies"}
+{"sentence":"Кинотеатрдағы жақсы комедияны усын","intent":"recommendation_movies"}
+{"sentence":"Recommend a good comdey now showing","intent":"recommendation_movies"}
+{"sentence":"Опубликуй мой статус в фейсбуке плиз","intent":"social_post"}
+{"sentence":"Фейсбукке статусымды жаряла","intent":"social_post"}
+{"sentence":"Publish my stauts on Facebook","intent":"social_post"}
+{"sentence":"Найди последние публикции друзей","intent":"social_query"}
+{"sentence":"Достарымның соңғы жазбаларын тапшыы","intent":"social_query"}
+{"sentence":"Find my freinds' latest posts","intent":"social_query"}
+{"sentence":"Оформи даставку двух бургеров","intent":"takeaway_order"}
+{"sentence":"Екі бургерді жеткізуге рәсмде","intent":"takeaway_order"}
+{"sentence":"Place an oder for two burgers","intent":"takeaway_order"}
+{"sentence":"Какие кафе рядом готовят еду на вынос?","intent":"takeaway_query"}
+{"sentence":"Жақын жерде қай кафе тамақты алып кетуге дайындаиды?","intent":"takeaway_query"}
+{"sentence":"Which nearby cafes offer takeway food?","intent":"takeaway_query"}
+{"sentence":"Пусть такси заберет меня у вакзала","intent":"transport_taxi"}
+{"sentence":"Такси мені вокзалдан алып кетсн","intent":"transport_taxi"}
+{"sentence":"Have a taxi pik me up at the station","intent":"transport_taxi"}
+{"sentence":"Возьми мне два билета до Алмты","intent":"transport_ticket"}
+{"sentence":"Алматыға екі билет алып бр","intent":"transport_ticket"}
+{"sentence":"Purchase two ticktes to Almaty","intent":"transport_ticket"}
+{"sentence":"Какой прагноз на выходные?","intent":"weather_query"}
+{"sentence":"Демалыс күндеріне ауа райы болжамы кандаи?","intent":"weather_query"}
+{"sentence":"What is the weekend forcast?","intent":"weather_query"}
